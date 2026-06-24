@@ -1,0 +1,8 @@
+Flask
+pandas
+joblib
+scikit-learn
+nltk
+SQLAlchemy
+psycopg[binary]
+

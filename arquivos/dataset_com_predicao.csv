@@ -1,0 +1,1032 @@
+id,curso,usuario,avaliacao,sentimento,sentimento_bin,sentimento_predito
+1,Excel Avançado,Juan da Cruz,"Excelente curso, aprendi muito!",Positivo,1,1
+2,Machine Learning com Python,Marcelo Farias,Muita enrolação e pouca prática.,Negativo,0,0
+3,Inteligência Artificial,Gabriel Rodrigues,Não gostei do curso.,Negativo,0,0
+4,Visualização de Dados com Tableau,Emanuella Lima,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+5,Inteligência Artificial,Olivia Azevedo,"Excelente curso, aprendi muito!",Positivo,1,1
+6,Introdução ao Power BI,Rodrigo Porto,Aprendi mais do que esperava!,Positivo,1,1
+7,Inteligência Artificial,Emilly da Mota,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+9,Inteligência Artificial,Milena Farias,Muita enrolação e pouca prática.,Negativo,0,0
+10,Introdução ao Power BI,Stella Dias,Curso claro e objetivo.,Positivo,1,1
+11,Machine Learning com Python,Lara da Cruz,Muita enrolação e pouca prática.,Negativo,0,0
+12,Inteligência Artificial,Stephany Porto,Não gostei do curso.,Negativo,0,0
+13,Machine Learning com Python,Brenda Freitas,Muita enrolação e pouca prática.,Negativo,0,0
+14,Visualização de Dados com Tableau,Isis Vieira,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+16,Data Science com R,Maria Fernanda Campos,Aprendi mais do que esperava!,Positivo,1,1
+18,Data Science com R,Ryan Duarte,Aprendi mais do que esperava!,Positivo,1,1
+20,Visualização de Dados com Tableau,Catarina Costela,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+21,Visualização de Dados com Tableau,Maitê Correia,"Excelente curso, aprendi muito!",Positivo,1,1
+22,Python para Iniciantes,Luigi Cardoso,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+23,Introdução ao Power BI,Eduardo Silva,Não gostei do curso.,Negativo,0,0
+24,Introdução ao Power BI,Gabriel Sales,Muita enrolação e pouca prática.,Negativo,0,0
+25,Visualização de Dados com Tableau,Caroline Fernandes,"Excelente curso, aprendi muito!",Positivo,1,1
+26,Introdução ao Power BI,Elisa Cunha,Não gostei do curso.,Negativo,0,0
+27,Machine Learning com Python,Arthur Rezende,Curso claro e objetivo.,Positivo,1,1
+28,Introdução ao Power BI,Julia Pires,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+32,Introdução ao Power BI,Henrique Duarte,"Muito bom, super recomendo!",Positivo,1,1
+34,Visualização de Dados com Tableau,Luiz Henrique Campos,Explicações confusas e conteúdo fraco.,Negativo,0,0
+35,Visualização de Dados com Tableau,Clara Sales,Aprendi mais do que esperava!,Positivo,1,1
+37,SQL para Análise de Dados,Mariane Alves,"Muito bom, super recomendo!",Positivo,1,1
+39,Introdução ao Power BI,João Lucas Santos,Curso claro e objetivo.,Positivo,1,1
+40,Machine Learning com Python,Cauê da Cunha,"Muito bom, super recomendo!",Positivo,1,1
+41,SQL para Análise de Dados,Breno Dias,Curso claro e objetivo.,Positivo,1,1
+42,Machine Learning com Python,Davi Luiz Campos,Muita enrolação e pouca prática.,Negativo,0,0
+43,Visualização de Dados com Tableau,Ana Carolina Silveira,"Excelente curso, aprendi muito!",Positivo,1,1
+44,Introdução ao Power BI,Marcelo Rezende,Aprendi mais do que esperava!,Positivo,1,1
+46,Introdução ao Power BI,Bryan Nunes,"Muito bom, super recomendo!",Positivo,1,1
+48,Introdução ao Power BI,Bruno Teixeira,Curso claro e objetivo.,Positivo,1,1
+49,Machine Learning com Python,Miguel Novaes,Aprendi mais do que esperava!,Positivo,1,1
+50,Visualização de Dados com Tableau,Luiz Gustavo Silveira,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+51,Excel Avançado,Renan Araújo,Não recomendo.,Negativo,0,0
+52,SQL para Análise de Dados,Davi Lucas Cavalcanti,Aprendi mais do que esperava!,Positivo,1,1
+53,Introdução ao Power BI,Heloísa Ribeiro,"Muito bom, super recomendo!",Positivo,1,1
+55,Visualização de Dados com Tableau,Davi Rezende,"Muito bom, super recomendo!",Positivo,1,1
+57,Inteligência Artificial,Catarina Ferreira,Não gostei do curso.,Negativo,0,0
+58,Machine Learning com Python,Luigi Barros,Aprendi mais do que esperava!,Positivo,1,1
+60,SQL para Análise de Dados,Luiz Miguel Costela,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+61,Visualização de Dados com Tableau,Lorenzo da Paz,Aprendi mais do que esperava!,Positivo,1,1
+63,Inteligência Artificial,Bryan Rodrigues,Curso claro e objetivo.,Positivo,1,1
+64,SQL para Análise de Dados,Agatha Monteiro,Aprendi mais do que esperava!,Positivo,1,1
+67,Inteligência Artificial,Levi Ramos,Não gostei do curso.,Negativo,0,0
+68,Inteligência Artificial,Joaquim Cavalcanti,Curso claro e objetivo.,Positivo,1,1
+69,Machine Learning com Python,Sabrina Cunha,"Muito bom, super recomendo!",Positivo,1,1
+70,Visualização de Dados com Tableau,Esther Azevedo,"Muito bom, super recomendo!",Positivo,1,1
+71,Inteligência Artificial,Mariane da Costa,"Muito bom, super recomendo!",Positivo,1,1
+72,Inteligência Artificial,Yuri Ferreira,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+73,Data Science com R,Alexandre Araújo,"Muito bom, super recomendo!",Positivo,1,1
+74,Machine Learning com Python,Cecília Vieira,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+77,Excel Avançado,Pedro Lucas Cavalcanti,Não gostei do curso.,Negativo,0,0
+78,Introdução ao Power BI,Luiza Pereira,Curso claro e objetivo.,Positivo,1,1
+79,Excel Avançado,Sabrina Ferreira,Curso claro e objetivo.,Positivo,1,1
+80,Inteligência Artificial,Mariane Barros,Aprendi mais do que esperava!,Positivo,1,1
+83,SQL para Análise de Dados,Lucas Araújo,Aprendi mais do que esperava!,Positivo,1,1
+84,SQL para Análise de Dados,Lara Farias,"Excelente curso, aprendi muito!",Positivo,1,1
+87,Data Science com R,Carlos Eduardo Rodrigues,Muita enrolação e pouca prática.,Negativo,0,0
+88,Python para Iniciantes,Luigi Cavalcanti,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+89,Machine Learning com Python,Pedro Farias,Curso claro e objetivo.,Positivo,1,1
+90,Visualização de Dados com Tableau,Luiz Otávio Martins,Muita enrolação e pouca prática.,Negativo,0,0
+91,Excel Avançado,Danilo Martins,Não gostei do curso.,Negativo,0,0
+92,Python para Iniciantes,Vitor Hugo da Costa,"Excelente curso, aprendi muito!",Positivo,1,1
+95,Inteligência Artificial,Nina Moraes,"Excelente curso, aprendi muito!",Positivo,1,1
+96,Inteligência Artificial,Antônio da Conceição,Aprendi mais do que esperava!,Positivo,1,1
+97,Data Science com R,Bruno Almeida,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+98,Excel Avançado,Eduarda Martins,Curso claro e objetivo.,Positivo,1,1
+99,Python para Iniciantes,Luiz Henrique Vieira,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+101,Python para Iniciantes,Thales Nascimento,Não recomendo.,Negativo,0,0
+106,Machine Learning com Python,Lorena da Paz,"Muito bom, super recomendo!",Positivo,1,1
+107,Data Science com R,Guilherme Ribeiro,Curso claro e objetivo.,Positivo,1,1
+109,Excel Avançado,Raquel Monteiro,Explicações confusas e conteúdo fraco.,Negativo,0,0
+110,Introdução ao Power BI,Amanda Cardoso,Explicações confusas e conteúdo fraco.,Negativo,0,0
+111,Excel Avançado,Fernando da Costa,Explicações confusas e conteúdo fraco.,Negativo,0,0
+112,Excel Avançado,Ian da Conceição,"Muito bom, super recomendo!",Positivo,1,1
+113,Visualização de Dados com Tableau,Gabriel Lima,Não gostei do curso.,Negativo,0,0
+114,Python para Iniciantes,Elisa Silva,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+115,Introdução ao Power BI,Fernanda Rodrigues,Aprendi mais do que esperava!,Positivo,1,1
+117,Excel Avançado,Leandro da Cunha,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+118,SQL para Análise de Dados,Clara Gomes,Muita enrolação e pouca prática.,Negativo,0,0
+119,Inteligência Artificial,Ana Jesus,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+120,Visualização de Dados com Tableau,Luigi Rodrigues,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+124,Excel Avançado,Isabella Moreira,Aprendi mais do que esperava!,Positivo,1,1
+125,Machine Learning com Python,Danilo Silveira,"Excelente curso, aprendi muito!",Positivo,1,1
+127,Data Science com R,Thales Rezende,"Muito bom, super recomendo!",Positivo,1,1
+129,SQL para Análise de Dados,Maria Fernanda Duarte,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+130,Visualização de Dados com Tableau,Yuri Rezende,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+132,Introdução ao Power BI,Alexandre Pereira,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+133,Python para Iniciantes,Amanda Nunes,Curso claro e objetivo.,Positivo,1,1
+134,Visualização de Dados com Tableau,Bryan Rodrigues,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+135,Data Science com R,Sarah Araújo,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+138,SQL para Análise de Dados,Camila Caldeira,"Muito bom, super recomendo!",Positivo,1,1
+139,Python para Iniciantes,Heloísa Cavalcanti,"Muito bom, super recomendo!",Positivo,1,1
+140,Machine Learning com Python,Alexia Silveira,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+142,Data Science com R,Maria Rezende,"Muito bom, super recomendo!",Positivo,1,1
+143,Data Science com R,Nicole Almeida,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+144,Machine Learning com Python,Rodrigo Martins,"Excelente curso, aprendi muito!",Positivo,1,1
+145,Visualização de Dados com Tableau,Fernanda Costela,"Excelente curso, aprendi muito!",Positivo,1,1
+146,SQL para Análise de Dados,Eduarda Novaes,"Muito bom, super recomendo!",Positivo,1,1
+147,Excel Avançado,João Miguel Costela,Não recomendo.,Negativo,0,0
+148,Excel Avançado,Lorenzo Porto,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+149,Machine Learning com Python,Luiz Gustavo Martins,Não gostei do curso.,Negativo,0,0
+150,Visualização de Dados com Tableau,Enrico Teixeira,Aprendi mais do que esperava!,Positivo,1,1
+151,Excel Avançado,Davi Lucca Cardoso,Explicações confusas e conteúdo fraco.,Negativo,0,0
+152,Visualização de Dados com Tableau,João Gabriel Costa,Aprendi mais do que esperava!,Positivo,1,1
+154,Visualização de Dados com Tableau,João Pedro Costa,"Muito bom, super recomendo!",Positivo,1,1
+155,Introdução ao Power BI,Breno Melo,"Muito bom, super recomendo!",Positivo,1,1
+157,Inteligência Artificial,Maria Luiza Rodrigues,"Muito bom, super recomendo!",Positivo,1,1
+158,Machine Learning com Python,Lucca Gomes,Aprendi mais do que esperava!,Positivo,1,1
+161,Python para Iniciantes,Leonardo Nunes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+163,Visualização de Dados com Tableau,Lorena Moreira,"Excelente curso, aprendi muito!",Positivo,1,1
+165,SQL para Análise de Dados,Miguel Silva,"Muito bom, super recomendo!",Positivo,1,1
+167,Visualização de Dados com Tableau,Enzo Ramos,Curso claro e objetivo.,Positivo,1,1
+168,Excel Avançado,Ana Clara Lima,Curso claro e objetivo.,Positivo,1,1
+169,SQL para Análise de Dados,Luiz Henrique Farias,Não recomendo.,Negativo,0,0
+170,SQL para Análise de Dados,Gabrielly Almeida,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+171,Visualização de Dados com Tableau,Giovanna Moraes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+172,SQL para Análise de Dados,Maria Eduarda Melo,Aprendi mais do que esperava!,Positivo,1,1
+173,Introdução ao Power BI,Gabriel Nascimento,"Muito bom, super recomendo!",Positivo,1,1
+174,Excel Avançado,Daniel Pinto,Curso claro e objetivo.,Positivo,1,1
+175,Visualização de Dados com Tableau,Benjamin Viana,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+176,Visualização de Dados com Tableau,Maitê Melo,"Muito bom, super recomendo!",Positivo,1,1
+177,Inteligência Artificial,Vinicius Souza,Aprendi mais do que esperava!,Positivo,1,1
+181,Machine Learning com Python,Pietro Moura,Aprendi mais do que esperava!,Positivo,1,1
+182,Data Science com R,Pedro Moura,Não recomendo.,Negativo,0,0
+184,Data Science com R,Stephany Silva,Curso claro e objetivo.,Positivo,1,1
+185,SQL para Análise de Dados,Bruno Almeida,Aprendi mais do que esperava!,Positivo,1,1
+187,Excel Avançado,Arthur da Mata,Curso claro e objetivo.,Positivo,1,1
+189,Excel Avançado,Benício Melo,Aprendi mais do que esperava!,Positivo,1,1
+190,Excel Avançado,Davi Lucca Campos,Muita enrolação e pouca prática.,Negativo,0,0
+191,Machine Learning com Python,Joaquim Silva,"Excelente curso, aprendi muito!",Positivo,1,1
+192,SQL para Análise de Dados,Ana Vitória Duarte,"Muito bom, super recomendo!",Positivo,1,1
+194,Excel Avançado,Bryan Porto,"Excelente curso, aprendi muito!",Positivo,1,1
+196,Inteligência Artificial,João Lucas Rezende,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+197,Excel Avançado,Lavínia Pinto,Aprendi mais do que esperava!,Positivo,1,1
+198,Inteligência Artificial,Eduarda Rezende,Explicações confusas e conteúdo fraco.,Negativo,0,0
+199,Machine Learning com Python,Raquel Cavalcanti,Curso claro e objetivo.,Positivo,1,1
+201,Excel Avançado,Thales da Cunha,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+202,Machine Learning com Python,Augusto da Cruz,Não gostei do curso.,Negativo,0,0
+203,Machine Learning com Python,Helena Dias,Aprendi mais do que esperava!,Positivo,1,1
+204,Introdução ao Power BI,Helena Almeida,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+206,Excel Avançado,Ana Beatriz da Rosa,"Muito bom, super recomendo!",Positivo,1,1
+208,Introdução ao Power BI,Otávio Lima,"Muito bom, super recomendo!",Positivo,1,1
+209,Machine Learning com Python,Daniela Duarte,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+212,SQL para Análise de Dados,Elisa Cardoso,Explicações confusas e conteúdo fraco.,Negativo,0,0
+213,Data Science com R,Nicolas Dias,Curso claro e objetivo.,Positivo,1,1
+214,SQL para Análise de Dados,Augusto Nogueira,"Muito bom, super recomendo!",Positivo,1,1
+215,Python para Iniciantes,Ana Beatriz Lima,Curso claro e objetivo.,Positivo,1,1
+218,Visualização de Dados com Tableau,Theo Fogaça,Curso claro e objetivo.,Positivo,1,1
+219,Python para Iniciantes,Maria Clara Costela,Aprendi mais do que esperava!,Positivo,1,1
+224,Inteligência Artificial,Sofia Vieira,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+225,Machine Learning com Python,Pedro Pinto,Curso claro e objetivo.,Positivo,1,1
+228,Excel Avançado,Manuela Farias,Aprendi mais do que esperava!,Positivo,1,1
+230,Python para Iniciantes,Luigi Vieira,Aprendi mais do que esperava!,Positivo,1,1
+231,Data Science com R,João Felipe da Cruz,"Muito bom, super recomendo!",Positivo,1,1
+232,Introdução ao Power BI,Erick da Costa,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+233,Python para Iniciantes,Olivia da Costa,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+234,Visualização de Dados com Tableau,Luana Gonçalves,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+235,Data Science com R,Igor Sales,Curso claro e objetivo.,Positivo,1,1
+236,Machine Learning com Python,Otávio Costela,Não recomendo.,Negativo,0,0
+237,SQL para Análise de Dados,Ana Moreira,Curso claro e objetivo.,Positivo,1,1
+238,Python para Iniciantes,Maria Vitória Sales,Muita enrolação e pouca prática.,Negativo,0,0
+239,Data Science com R,Ana Vitória da Conceição,Curso claro e objetivo.,Positivo,1,1
+241,Visualização de Dados com Tableau,Lorenzo Gonçalves,"Muito bom, super recomendo!",Positivo,1,1
+242,SQL para Análise de Dados,Lavínia Rezende,"Excelente curso, aprendi muito!",Positivo,1,1
+244,Excel Avançado,Cauã Alves,Aprendi mais do que esperava!,Positivo,1,1
+245,Python para Iniciantes,Luna Cunha,"Muito bom, super recomendo!",Positivo,1,1
+246,Introdução ao Power BI,Maria Vitória Caldeira,"Excelente curso, aprendi muito!",Positivo,1,1
+247,Inteligência Artificial,Caio Cavalcanti,Não gostei do curso.,Negativo,0,0
+248,Python para Iniciantes,Breno Carvalho,Aprendi mais do que esperava!,Positivo,1,1
+249,Excel Avançado,Marcos Vinicius Ramos,Aprendi mais do que esperava!,Positivo,1,1
+250,Visualização de Dados com Tableau,Laura Moraes,Muita enrolação e pouca prática.,Negativo,0,0
+252,Visualização de Dados com Tableau,Leonardo Silveira,"Excelente curso, aprendi muito!",Positivo,1,1
+253,Python para Iniciantes,Stephany Caldeira,Aprendi mais do que esperava!,Positivo,1,1
+254,Inteligência Artificial,Nathan da Mota,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+255,SQL para Análise de Dados,Guilherme da Luz,Muita enrolação e pouca prática.,Negativo,0,0
+256,Introdução ao Power BI,Vitor Campos,Curso claro e objetivo.,Positivo,1,1
+257,Visualização de Dados com Tableau,Joaquim Lopes,Aprendi mais do que esperava!,Positivo,1,1
+259,Data Science com R,João Felipe Nogueira,Muita enrolação e pouca prática.,Negativo,0,0
+260,Introdução ao Power BI,Ana Beatriz Castro,Aprendi mais do que esperava!,Positivo,1,1
+261,Excel Avançado,Melissa das Neves,Aprendi mais do que esperava!,Positivo,1,1
+262,Introdução ao Power BI,Catarina da Mota,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+264,Data Science com R,Luna Santos,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+265,Excel Avançado,Sofia Lopes,Não recomendo.,Negativo,0,0
+267,Data Science com R,Alexia Silveira,Curso claro e objetivo.,Positivo,1,1
+268,Inteligência Artificial,Gabrielly Lima,Muita enrolação e pouca prática.,Negativo,0,0
+269,Introdução ao Power BI,Alana Melo,"Excelente curso, aprendi muito!",Positivo,1,1
+270,Excel Avançado,Letícia Farias,"Muito bom, super recomendo!",Positivo,1,1
+272,Python para Iniciantes,Isaac Moura,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+273,Introdução ao Power BI,Stella Rodrigues,Curso claro e objetivo.,Positivo,1,1
+274,Introdução ao Power BI,Maria Alice Barros,Muita enrolação e pouca prática.,Negativo,0,0
+275,Data Science com R,Davi Correia,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+276,Python para Iniciantes,Caio Oliveira,Curso claro e objetivo.,Positivo,1,1
+278,Visualização de Dados com Tableau,Evelyn da Cruz,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+279,Data Science com R,Stephany Barros,"Excelente curso, aprendi muito!",Positivo,1,1
+280,Machine Learning com Python,Gustavo Henrique Nascimento,"Muito bom, super recomendo!",Positivo,1,1
+281,Inteligência Artificial,Isabelly Ramos,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+284,Visualização de Dados com Tableau,André Farias,"Muito bom, super recomendo!",Positivo,1,1
+287,Data Science com R,Noah Cunha,Explicações confusas e conteúdo fraco.,Negativo,0,0
+288,Data Science com R,Gabriel Viana,"Excelente curso, aprendi muito!",Positivo,1,1
+289,Data Science com R,Maysa Lopes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+290,Machine Learning com Python,Igor Castro,"Excelente curso, aprendi muito!",Positivo,1,1
+291,Machine Learning com Python,Alana Araújo,Curso claro e objetivo.,Positivo,1,1
+292,Introdução ao Power BI,Augusto Jesus,Curso claro e objetivo.,Positivo,1,1
+293,Introdução ao Power BI,Isabel Gomes,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+296,SQL para Análise de Dados,Murilo Duarte,Não recomendo.,Negativo,0,0
+297,Introdução ao Power BI,Mirella da Cruz,Não recomendo.,Negativo,0,0
+298,Machine Learning com Python,Juan Moraes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+301,Introdução ao Power BI,Diego Rocha,Não gostei do curso.,Negativo,0,0
+302,Visualização de Dados com Tableau,Ryan Nunes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+303,Python para Iniciantes,Mariana Carvalho,Aprendi mais do que esperava!,Positivo,1,1
+304,Visualização de Dados com Tableau,Enrico Caldeira,"Muito bom, super recomendo!",Positivo,1,1
+306,Inteligência Artificial,Maria Luiza Carvalho,"Excelente curso, aprendi muito!",Positivo,1,1
+307,Introdução ao Power BI,Isis Rezende,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+308,Python para Iniciantes,Vinicius Campos,"Muito bom, super recomendo!",Positivo,1,1
+310,Machine Learning com Python,Davi Lucas Oliveira,Muita enrolação e pouca prática.,Negativo,0,0
+311,Visualização de Dados com Tableau,Julia Cunha,"Excelente curso, aprendi muito!",Positivo,1,1
+312,Inteligência Artificial,Pietra Lopes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+313,Introdução ao Power BI,Benjamin Barbosa,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+315,Machine Learning com Python,Gabriela Sales,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+317,SQL para Análise de Dados,Augusto Melo,Não gostei do curso.,Negativo,0,0
+318,Introdução ao Power BI,Melissa Caldeira,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+319,Visualização de Dados com Tableau,Kevin Araújo,Não gostei do curso.,Negativo,0,0
+320,Visualização de Dados com Tableau,Maria Vitória Viana,"Muito bom, super recomendo!",Positivo,1,1
+322,SQL para Análise de Dados,Isabelly Lima,Curso claro e objetivo.,Positivo,1,1
+323,Python para Iniciantes,Ana Laura da Mata,"Excelente curso, aprendi muito!",Positivo,1,1
+324,SQL para Análise de Dados,Eduardo da Cunha,Não gostei do curso.,Negativo,0,0
+326,Data Science com R,Ana Laura Alves,Aprendi mais do que esperava!,Positivo,1,1
+327,Excel Avançado,Luiz Miguel Freitas,Não recomendo.,Negativo,0,0
+328,Visualização de Dados com Tableau,Carolina da Rocha,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+329,SQL para Análise de Dados,André Peixoto,Não recomendo.,Negativo,0,0
+331,Excel Avançado,Francisco Cardoso,Muita enrolação e pouca prática.,Negativo,0,0
+332,Excel Avançado,Stella Araújo,"Muito bom, super recomendo!",Positivo,1,1
+333,Data Science com R,Gustavo Fernandes,"Muito bom, super recomendo!",Positivo,1,1
+334,SQL para Análise de Dados,Beatriz Nunes,"Muito bom, super recomendo!",Positivo,1,1
+339,Excel Avançado,Laura Gomes,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+340,SQL para Análise de Dados,Manuela Peixoto,Aprendi mais do que esperava!,Positivo,1,1
+341,Data Science com R,Esther Araújo,Curso claro e objetivo.,Positivo,1,1
+342,SQL para Análise de Dados,Felipe Cardoso,Aprendi mais do que esperava!,Positivo,1,1
+343,Data Science com R,Augusto da Mota,"Muito bom, super recomendo!",Positivo,1,1
+345,Python para Iniciantes,Maria Luiza Sales,"Muito bom, super recomendo!",Positivo,1,1
+346,Machine Learning com Python,Emilly Peixoto,Aprendi mais do que esperava!,Positivo,1,1
+348,Machine Learning com Python,Emilly Porto,Aprendi mais do que esperava!,Positivo,1,1
+350,SQL para Análise de Dados,Julia Rodrigues,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+351,Python para Iniciantes,Mirella Silveira,"Excelente curso, aprendi muito!",Positivo,1,1
+352,Excel Avançado,Benjamin Lima,Aprendi mais do que esperava!,Positivo,1,1
+353,Python para Iniciantes,Maria Eduarda Monteiro,"Muito bom, super recomendo!",Positivo,1,1
+354,SQL para Análise de Dados,Sophia Pires,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+355,Machine Learning com Python,Bruna Duarte,"Muito bom, super recomendo!",Positivo,1,1
+356,Visualização de Dados com Tableau,Sofia Alves,Curso claro e objetivo.,Positivo,1,1
+357,Inteligência Artificial,Bernardo Moura,"Muito bom, super recomendo!",Positivo,1,1
+358,Visualização de Dados com Tableau,Marcela Nunes,"Muito bom, super recomendo!",Positivo,1,1
+359,Introdução ao Power BI,Eloah Pereira,"Excelente curso, aprendi muito!",Positivo,1,1
+360,Machine Learning com Python,Raul Moura,Não recomendo.,Negativo,0,0
+361,Data Science com R,Bárbara Souza,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+364,Introdução ao Power BI,Clara Moraes,Não recomendo.,Negativo,0,0
+365,Python para Iniciantes,Isabel Oliveira,Não recomendo.,Negativo,0,0
+367,Machine Learning com Python,Bárbara Gomes,"Excelente curso, aprendi muito!",Positivo,1,1
+370,Inteligência Artificial,Rodrigo Santos,"Muito bom, super recomendo!",Positivo,1,1
+371,SQL para Análise de Dados,Eloah Souza,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+372,Python para Iniciantes,Matheus Fernandes,"Muito bom, super recomendo!",Positivo,1,1
+374,Excel Avançado,Anthony Silveira,Explicações confusas e conteúdo fraco.,Negativo,0,0
+376,Data Science com R,Emanuelly Porto,Curso claro e objetivo.,Positivo,1,1
+378,Visualização de Dados com Tableau,Daniel Azevedo,Aprendi mais do que esperava!,Positivo,1,1
+379,Introdução ao Power BI,Luiz Gustavo da Conceição,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+380,Inteligência Artificial,Alice Rodrigues,Não recomendo.,Negativo,0,0
+381,Visualização de Dados com Tableau,Maitê Mendes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+383,Machine Learning com Python,João Pedro Ribeiro,Muita enrolação e pouca prática.,Negativo,0,0
+384,Machine Learning com Python,Maria Clara Moreira,"Excelente curso, aprendi muito!",Positivo,1,1
+386,Visualização de Dados com Tableau,Maria Luiza da Paz,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+387,Introdução ao Power BI,Giovanna da Paz,"Excelente curso, aprendi muito!",Positivo,1,1
+389,Machine Learning com Python,Leonardo Caldeira,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+394,SQL para Análise de Dados,Julia Gonçalves,Aprendi mais do que esperava!,Positivo,1,1
+396,Visualização de Dados com Tableau,Thomas da Rocha,Curso claro e objetivo.,Positivo,1,1
+397,Python para Iniciantes,Maria Julia Moura,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+398,Data Science com R,Daniel da Cruz,Curso claro e objetivo.,Positivo,1,1
+399,Python para Iniciantes,Isaac Silva,Explicações confusas e conteúdo fraco.,Negativo,0,0
+400,Visualização de Dados com Tableau,Levi Peixoto,Curso claro e objetivo.,Positivo,1,1
+401,Data Science com R,Luna da Conceição,Muita enrolação e pouca prática.,Negativo,0,0
+402,Inteligência Artificial,Enzo Gabriel Moura,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+403,Excel Avançado,Kamilly da Luz,Aprendi mais do que esperava!,Positivo,1,1
+405,SQL para Análise de Dados,Esther da Mota,Aprendi mais do que esperava!,Positivo,1,1
+406,Inteligência Artificial,Gabriel Martins,"Excelente curso, aprendi muito!",Positivo,1,1
+409,Introdução ao Power BI,Stephany Nunes,"Excelente curso, aprendi muito!",Positivo,1,1
+410,SQL para Análise de Dados,Pedro Lucas da Rosa,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+411,Machine Learning com Python,Maria Vitória Cavalcanti,Aprendi mais do que esperava!,Positivo,1,1
+416,Machine Learning com Python,Gabriela Aragão,"Excelente curso, aprendi muito!",Positivo,1,1
+417,Python para Iniciantes,Caroline Cunha,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+421,Data Science com R,Luiz Otávio Lima,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+422,SQL para Análise de Dados,Vitória Almeida,Curso claro e objetivo.,Positivo,1,1
+423,Introdução ao Power BI,Luana Rocha,Muita enrolação e pouca prática.,Negativo,0,0
+426,Visualização de Dados com Tableau,Erick Almeida,"Muito bom, super recomendo!",Positivo,1,1
+428,Excel Avançado,Vitória Rezende,Aprendi mais do que esperava!,Positivo,1,1
+429,Excel Avançado,Eduarda Souza,Não gostei do curso.,Negativo,0,0
+430,Machine Learning com Python,Vicente Gonçalves,Aprendi mais do que esperava!,Positivo,1,1
+432,Python para Iniciantes,Emanuelly Porto,Aprendi mais do que esperava!,Positivo,1,1
+433,Data Science com R,Pedro Miguel Farias,Explicações confusas e conteúdo fraco.,Negativo,0,0
+434,Introdução ao Power BI,Esther Fogaça,"Excelente curso, aprendi muito!",Positivo,1,1
+435,Excel Avançado,Thomas Correia,Muita enrolação e pouca prática.,Negativo,0,0
+436,Inteligência Artificial,Maria Julia da Paz,"Excelente curso, aprendi muito!",Positivo,1,1
+438,Machine Learning com Python,Kaique Gonçalves,Não recomendo.,Negativo,0,0
+439,Machine Learning com Python,Maria Sophia Melo,"Muito bom, super recomendo!",Positivo,1,1
+440,Machine Learning com Python,Diogo Nunes,Muita enrolação e pouca prática.,Negativo,0,0
+441,Python para Iniciantes,Ryan Dias,Curso claro e objetivo.,Positivo,1,1
+443,Inteligência Artificial,Manuela Almeida,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+444,Visualização de Dados com Tableau,Melissa Moraes,"Excelente curso, aprendi muito!",Positivo,1,1
+445,Data Science com R,Alexandre Sales,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+449,Machine Learning com Python,Ryan Santos,"Excelente curso, aprendi muito!",Positivo,1,1
+450,SQL para Análise de Dados,Isadora Almeida,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+451,Excel Avançado,Kevin Araújo,Não recomendo.,Negativo,0,0
+453,SQL para Análise de Dados,Ana Carolina Alves,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+456,Inteligência Artificial,Eloah Moreira,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+457,SQL para Análise de Dados,Juan da Cruz,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+459,Python para Iniciantes,Levi Pires,"Excelente curso, aprendi muito!",Positivo,1,1
+461,Excel Avançado,Bernardo Silveira,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+462,Excel Avançado,Gustavo Henrique Pinto,Curso claro e objetivo.,Positivo,1,1
+463,Introdução ao Power BI,Noah Vieira,"Excelente curso, aprendi muito!",Positivo,1,1
+465,Inteligência Artificial,Thales Aragão,Aprendi mais do que esperava!,Positivo,1,1
+467,Excel Avançado,Gabriel Fogaça,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+468,Data Science com R,Rodrigo Porto,Não recomendo.,Negativo,0,0
+469,SQL para Análise de Dados,Enzo Gabriel Monteiro,"Muito bom, super recomendo!",Positivo,1,1
+470,Inteligência Artificial,Lucas Farias,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+471,Inteligência Artificial,Rebeca Fogaça,Explicações confusas e conteúdo fraco.,Negativo,0,0
+472,Introdução ao Power BI,João Vitor Farias,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+474,Visualização de Dados com Tableau,Lívia Pires,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+475,Introdução ao Power BI,Benjamin Vieira,"Excelente curso, aprendi muito!",Positivo,1,1
+476,Inteligência Artificial,Fernando Gomes,"Excelente curso, aprendi muito!",Positivo,1,1
+481,SQL para Análise de Dados,Laura Teixeira,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+482,SQL para Análise de Dados,Vicente Rezende,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+484,Introdução ao Power BI,Pietra Freitas,Muita enrolação e pouca prática.,Negativo,0,0
+485,Inteligência Artificial,Felipe Nogueira,Não gostei do curso.,Negativo,0,0
+486,Inteligência Artificial,Carolina Gomes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+487,Introdução ao Power BI,Vitor Correia,"Excelente curso, aprendi muito!",Positivo,1,1
+488,Machine Learning com Python,Guilherme Fernandes,Não gostei do curso.,Negativo,0,0
+489,Introdução ao Power BI,Juan Peixoto,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+490,Excel Avançado,Ana Lívia da Cunha,Aprendi mais do que esperava!,Positivo,1,1
+491,Python para Iniciantes,Gustavo Henrique Farias,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+493,Machine Learning com Python,Levi Vieira,Curso claro e objetivo.,Positivo,1,1
+494,Excel Avançado,Enzo Gabriel Nogueira,Explicações confusas e conteúdo fraco.,Negativo,0,0
+495,Introdução ao Power BI,João Vitor Duarte,Não recomendo.,Negativo,0,0
+497,Excel Avançado,Isabella da Cruz,"Muito bom, super recomendo!",Positivo,1,1
+498,Data Science com R,Juliana Fogaça,Não gostei do curso.,Negativo,0,0
+499,SQL para Análise de Dados,Laura Teixeira,Aprendi mais do que esperava!,Positivo,1,1
+500,Excel Avançado,Kevin da Costa,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+501,Python para Iniciantes,Maria Clara Pereira,"Muito bom, super recomendo!",Positivo,1,1
+502,Python para Iniciantes,Ana Luiza Ramos,Não gostei do curso.,Negativo,0,0
+505,SQL para Análise de Dados,Luiz Gustavo Rocha,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+506,SQL para Análise de Dados,Davi Luiz Teixeira,"Muito bom, super recomendo!",Positivo,1,1
+507,Python para Iniciantes,Davi Ramos,Aprendi mais do que esperava!,Positivo,1,1
+510,Introdução ao Power BI,Paulo Pires,Não recomendo.,Negativo,0,0
+511,Inteligência Artificial,Marcos Vinicius Pires,Explicações confusas e conteúdo fraco.,Negativo,0,0
+512,Machine Learning com Python,Fernando Nascimento,Aprendi mais do que esperava!,Positivo,1,1
+513,Machine Learning com Python,Theo Correia,Curso claro e objetivo.,Positivo,1,1
+516,Data Science com R,João Lucas da Cruz,Não recomendo.,Negativo,0,0
+517,Visualização de Dados com Tableau,Julia Azevedo,"Muito bom, super recomendo!",Positivo,1,1
+518,Python para Iniciantes,Carolina Cavalcanti,Aprendi mais do que esperava!,Positivo,1,1
+519,Introdução ao Power BI,Igor Melo,"Muito bom, super recomendo!",Positivo,1,1
+520,Machine Learning com Python,Yuri da Cunha,Curso claro e objetivo.,Positivo,1,1
+521,Inteligência Artificial,Kaique Gomes,Não gostei do curso.,Negativo,0,0
+523,Data Science com R,João Miguel da Cruz,Muita enrolação e pouca prática.,Negativo,0,0
+524,SQL para Análise de Dados,Bianca Ferreira,"Muito bom, super recomendo!",Positivo,1,1
+527,Inteligência Artificial,Fernanda Dias,Aprendi mais do que esperava!,Positivo,1,1
+528,SQL para Análise de Dados,Evelyn Moura,Não recomendo.,Negativo,0,0
+531,Data Science com R,Nicolas Lima,Aprendi mais do que esperava!,Positivo,1,1
+532,Data Science com R,Raul da Rocha,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+533,Introdução ao Power BI,Luana Moura,Aprendi mais do que esperava!,Positivo,1,1
+535,Excel Avançado,Arthur Azevedo,"Excelente curso, aprendi muito!",Positivo,1,1
+538,Inteligência Artificial,Alexandre Duarte,"Excelente curso, aprendi muito!",Positivo,1,1
+540,Visualização de Dados com Tableau,Eduardo Fogaça,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+541,Inteligência Artificial,Luana Teixeira,Aprendi mais do que esperava!,Positivo,1,1
+543,Machine Learning com Python,Davi Luiz Araújo,"Muito bom, super recomendo!",Positivo,1,1
+544,Introdução ao Power BI,Maria Clara Almeida,Curso claro e objetivo.,Positivo,1,1
+545,SQL para Análise de Dados,Camila Santos,"Muito bom, super recomendo!",Positivo,1,1
+546,Excel Avançado,Daniel Porto,Curso claro e objetivo.,Positivo,1,1
+547,Data Science com R,Bruno Fernandes,Curso claro e objetivo.,Positivo,1,1
+548,Excel Avançado,João Vitor Peixoto,Aprendi mais do que esperava!,Positivo,1,1
+550,Data Science com R,Luiza Moreira,Explicações confusas e conteúdo fraco.,Negativo,0,0
+551,Visualização de Dados com Tableau,Ana Lima,Muita enrolação e pouca prática.,Negativo,0,0
+552,Introdução ao Power BI,Luiza da Mata,Não gostei do curso.,Negativo,0,0
+553,Visualização de Dados com Tableau,Nina Ramos,Aprendi mais do que esperava!,Positivo,1,1
+554,SQL para Análise de Dados,Ana Correia,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+555,Visualização de Dados com Tableau,Diego da Rosa,Não gostei do curso.,Negativo,0,0
+556,Data Science com R,Sophie da Luz,Curso claro e objetivo.,Positivo,1,1
+560,Python para Iniciantes,Arthur Souza,Não recomendo.,Negativo,0,0
+561,Machine Learning com Python,Raquel Fogaça,Aprendi mais do que esperava!,Positivo,1,1
+562,Excel Avançado,Marina Caldeira,Muita enrolação e pouca prática.,Negativo,0,0
+563,Visualização de Dados com Tableau,Davi Luiz Melo,"Excelente curso, aprendi muito!",Positivo,1,1
+564,Machine Learning com Python,Maysa Santos,Curso claro e objetivo.,Positivo,1,1
+565,Excel Avançado,Rafaela Aragão,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+567,Python para Iniciantes,Ana Lívia Nascimento,Aprendi mais do que esperava!,Positivo,1,1
+568,Python para Iniciantes,Rebeca Peixoto,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+570,Excel Avançado,Maria Luiza Alves,Não recomendo.,Negativo,0,0
+571,Machine Learning com Python,Maria Luiza da Paz,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+573,Machine Learning com Python,Otávio Cavalcanti,Explicações confusas e conteúdo fraco.,Negativo,0,0
+575,SQL para Análise de Dados,Fernanda Teixeira,"Muito bom, super recomendo!",Positivo,1,1
+578,Machine Learning com Python,Diego Vieira,"Excelente curso, aprendi muito!",Positivo,1,1
+580,Excel Avançado,Elisa Ramos,Muita enrolação e pouca prática.,Negativo,0,0
+581,Introdução ao Power BI,Luiz Henrique Duarte,Não gostei do curso.,Negativo,0,0
+584,Inteligência Artificial,Alícia Nunes,Curso claro e objetivo.,Positivo,1,1
+585,Data Science com R,Fernando Martins,Aprendi mais do que esperava!,Positivo,1,1
+587,SQL para Análise de Dados,Isadora Mendes,Muita enrolação e pouca prática.,Negativo,0,0
+588,Python para Iniciantes,Bianca da Costa,Aprendi mais do que esperava!,Positivo,1,1
+589,Python para Iniciantes,Lívia Costa,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+590,Introdução ao Power BI,Sophie Pinto,"Muito bom, super recomendo!",Positivo,1,1
+591,Data Science com R,Fernando Vieira,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+592,Introdução ao Power BI,Bruno Silveira,"Muito bom, super recomendo!",Positivo,1,1
+593,Inteligência Artificial,Laís Santos,"Muito bom, super recomendo!",Positivo,1,1
+595,Excel Avançado,Mariana da Mata,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+596,Data Science com R,Ian Pinto,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+597,Excel Avançado,Ana Luiza da Luz,"Excelente curso, aprendi muito!",Positivo,1,1
+598,Inteligência Artificial,Eduarda Viana,"Excelente curso, aprendi muito!",Positivo,1,1
+599,SQL para Análise de Dados,Alexia Rezende,Não recomendo.,Negativo,0,0
+600,Visualização de Dados com Tableau,Kamilly Ferreira,"Muito bom, super recomendo!",Positivo,1,1
+601,Introdução ao Power BI,Alexia Farias,Explicações confusas e conteúdo fraco.,Negativo,0,0
+602,Visualização de Dados com Tableau,Júlia Mendes,Muita enrolação e pouca prática.,Negativo,0,0
+603,Inteligência Artificial,Beatriz Araújo,Aprendi mais do que esperava!,Positivo,1,1
+604,Python para Iniciantes,Maria Barros,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+605,Python para Iniciantes,Bernardo Ribeiro,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+606,Data Science com R,Carolina da Costa,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+607,Excel Avançado,João Pedro Castro,Muita enrolação e pouca prática.,Negativo,0,0
+608,Excel Avançado,Alícia Novaes,Aprendi mais do que esperava!,Positivo,1,1
+609,Excel Avançado,Mariana Cunha,"Excelente curso, aprendi muito!",Positivo,1,1
+610,SQL para Análise de Dados,Davi Porto,Curso claro e objetivo.,Positivo,1,1
+611,SQL para Análise de Dados,Isabella Aragão,Curso claro e objetivo.,Positivo,1,1
+612,Data Science com R,Guilherme Moura,Explicações confusas e conteúdo fraco.,Negativo,0,0
+613,Python para Iniciantes,Vitor Gabriel Nascimento,"Excelente curso, aprendi muito!",Positivo,1,1
+614,Excel Avançado,Sofia da Costa,"Muito bom, super recomendo!",Positivo,1,1
+615,Machine Learning com Python,Gabrielly Porto,"Excelente curso, aprendi muito!",Positivo,1,1
+616,Visualização de Dados com Tableau,Diogo Nogueira,Curso claro e objetivo.,Positivo,1,1
+618,Python para Iniciantes,Rafaela Santos,"Excelente curso, aprendi muito!",Positivo,1,1
+620,Inteligência Artificial,João Guilherme Rezende,"Excelente curso, aprendi muito!",Positivo,1,1
+622,SQL para Análise de Dados,Ana Laura da Rocha,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+623,Introdução ao Power BI,Augusto da Cruz,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+624,SQL para Análise de Dados,Ana Clara Azevedo,"Muito bom, super recomendo!",Positivo,1,1
+625,Excel Avançado,Bianca Costela,"Muito bom, super recomendo!",Positivo,1,1
+627,Data Science com R,Ian Araújo,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+628,Python para Iniciantes,Marina Sales,"Excelente curso, aprendi muito!",Positivo,1,1
+630,Visualização de Dados com Tableau,Esther Oliveira,"Muito bom, super recomendo!",Positivo,1,1
+632,Data Science com R,Sabrina Viana,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+633,Python para Iniciantes,Yuri Peixoto,"Excelente curso, aprendi muito!",Positivo,1,1
+636,SQL para Análise de Dados,Letícia Cardoso,Aprendi mais do que esperava!,Positivo,1,1
+637,Python para Iniciantes,Isabella Lopes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+638,Visualização de Dados com Tableau,Lívia Lopes,"Muito bom, super recomendo!",Positivo,1,1
+639,Machine Learning com Python,Luigi da Mata,Curso claro e objetivo.,Positivo,1,1
+641,SQL para Análise de Dados,Ana Júlia Rocha,"Excelente curso, aprendi muito!",Positivo,1,1
+642,Visualização de Dados com Tableau,Maria Eduarda Peixoto,"Muito bom, super recomendo!",Positivo,1,1
+647,Data Science com R,Samuel Cunha,Não gostei do curso.,Negativo,0,0
+651,Python para Iniciantes,Brenda Pinto,"Excelente curso, aprendi muito!",Positivo,1,1
+653,Introdução ao Power BI,Diego Jesus,"Excelente curso, aprendi muito!",Positivo,1,1
+654,Introdução ao Power BI,Noah Nunes,Explicações confusas e conteúdo fraco.,Negativo,0,0
+656,SQL para Análise de Dados,Isis Teixeira,Não recomendo.,Negativo,0,0
+657,Introdução ao Power BI,Ana Júlia Nascimento,"Muito bom, super recomendo!",Positivo,1,1
+658,Excel Avançado,Emilly Duarte,Aprendi mais do que esperava!,Positivo,1,1
+659,Visualização de Dados com Tableau,Pedro Henrique da Mata,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+662,Python para Iniciantes,Isaac da Cruz,"Excelente curso, aprendi muito!",Positivo,1,1
+663,Inteligência Artificial,Thomas Souza,Não recomendo.,Negativo,0,0
+664,Excel Avançado,Pietro da Luz,Curso claro e objetivo.,Positivo,1,1
+667,Visualização de Dados com Tableau,Clarice da Cruz,"Excelente curso, aprendi muito!",Positivo,1,1
+668,Data Science com R,João Guilherme da Conceição,"Excelente curso, aprendi muito!",Positivo,1,1
+669,SQL para Análise de Dados,Luna Cavalcanti,"Muito bom, super recomendo!",Positivo,1,1
+670,SQL para Análise de Dados,Carolina Nascimento,"Excelente curso, aprendi muito!",Positivo,1,1
+671,Python para Iniciantes,Nicole Moura,"Muito bom, super recomendo!",Positivo,1,1
+672,Introdução ao Power BI,Stella da Costa,"Excelente curso, aprendi muito!",Positivo,1,1
+675,Visualização de Dados com Tableau,João Vitor Gomes,Muita enrolação e pouca prática.,Negativo,0,0
+676,Visualização de Dados com Tableau,Maria Clara Gonçalves,Aprendi mais do que esperava!,Positivo,1,1
+678,SQL para Análise de Dados,Luiz Henrique da Costa,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+679,Python para Iniciantes,Emanuel Souza,Aprendi mais do que esperava!,Positivo,1,1
+682,Data Science com R,Anthony Ribeiro,Não recomendo.,Negativo,0,0
+683,Excel Avançado,Larissa Pereira,"Muito bom, super recomendo!",Positivo,1,1
+684,Excel Avançado,Marina Silva,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+687,Excel Avançado,Maria Clara Caldeira,Curso claro e objetivo.,Positivo,1,1
+688,SQL para Análise de Dados,Nicole Almeida,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+689,Data Science com R,Nina Cunha,Explicações confusas e conteúdo fraco.,Negativo,0,0
+692,SQL para Análise de Dados,Anthony Melo,"Excelente curso, aprendi muito!",Positivo,1,1
+693,Excel Avançado,João Miguel Martins,Curso claro e objetivo.,Positivo,1,1
+694,Introdução ao Power BI,Milena Fogaça,Aprendi mais do que esperava!,Positivo,1,1
+695,SQL para Análise de Dados,Maria Clara Aragão,"Excelente curso, aprendi muito!",Positivo,1,1
+696,Python para Iniciantes,Benício Gomes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+698,Excel Avançado,Eduarda Lopes,Não gostei do curso.,Negativo,0,0
+699,Excel Avançado,Kaique Porto,Curso claro e objetivo.,Positivo,1,1
+700,Machine Learning com Python,Caroline Rodrigues,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+701,Inteligência Artificial,Pietro da Rosa,Não gostei do curso.,Negativo,0,0
+702,Python para Iniciantes,Henrique Moreira,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+704,Data Science com R,Ana Julia Peixoto,Não recomendo.,Negativo,0,0
+707,Python para Iniciantes,Valentina Barros,Curso claro e objetivo.,Positivo,1,1
+708,Inteligência Artificial,Stephany Duarte,"Excelente curso, aprendi muito!",Positivo,1,1
+709,Visualização de Dados com Tableau,Igor Costa,"Excelente curso, aprendi muito!",Positivo,1,1
+710,Excel Avançado,Pietra Santos,"Muito bom, super recomendo!",Positivo,1,1
+711,Introdução ao Power BI,Natália Moura,Aprendi mais do que esperava!,Positivo,1,1
+713,Machine Learning com Python,Emanuelly Gomes,Aprendi mais do que esperava!,Positivo,1,1
+714,Visualização de Dados com Tableau,Anthony Azevedo,Aprendi mais do que esperava!,Positivo,1,1
+715,Visualização de Dados com Tableau,Bryan Moreira,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+716,Visualização de Dados com Tableau,João Guilherme Oliveira,Não gostei do curso.,Negativo,0,0
+717,Excel Avançado,Helena Nogueira,Aprendi mais do que esperava!,Positivo,1,1
+720,SQL para Análise de Dados,Melissa Carvalho,"Excelente curso, aprendi muito!",Positivo,1,1
+722,Data Science com R,Leandro Santos,Explicações confusas e conteúdo fraco.,Negativo,0,0
+723,Machine Learning com Python,Vitor Hugo da Mata,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+724,Python para Iniciantes,Davi Nogueira,Curso claro e objetivo.,Positivo,1,1
+725,Inteligência Artificial,Letícia Campos,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+726,Data Science com R,Davi Barros,"Excelente curso, aprendi muito!",Positivo,1,1
+727,Introdução ao Power BI,Miguel Vieira,Explicações confusas e conteúdo fraco.,Negativo,0,0
+728,Introdução ao Power BI,Rodrigo Castro,Curso claro e objetivo.,Positivo,1,1
+729,Data Science com R,Ana Beatriz Nunes,"Excelente curso, aprendi muito!",Positivo,1,1
+730,Python para Iniciantes,Isis Jesus,"Excelente curso, aprendi muito!",Positivo,1,1
+734,Machine Learning com Python,Olivia Vieira,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+735,Python para Iniciantes,Maria Julia Campos,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+737,Introdução ao Power BI,Otávio Carvalho,Não gostei do curso.,Negativo,0,0
+738,Excel Avançado,Davi Lucca Costela,Não recomendo.,Negativo,0,0
+739,Excel Avançado,Alexandre Porto,Curso claro e objetivo.,Positivo,1,1
+741,Machine Learning com Python,Bárbara Barros,"Muito bom, super recomendo!",Positivo,1,1
+743,SQL para Análise de Dados,Davi Lucca da Conceição,Aprendi mais do que esperava!,Positivo,1,1
+744,Python para Iniciantes,Breno Farias,Aprendi mais do que esperava!,Positivo,1,1
+745,Introdução ao Power BI,Daniel Novaes,Não gostei do curso.,Negativo,0,0
+746,Python para Iniciantes,Brenda Nogueira,Não gostei do curso.,Negativo,0,0
+747,SQL para Análise de Dados,Matheus da Luz,Não recomendo.,Negativo,0,0
+748,Visualização de Dados com Tableau,Ana Sophia da Mata,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+750,Visualização de Dados com Tableau,Olivia Moraes,Aprendi mais do que esperava!,Positivo,1,1
+752,Inteligência Artificial,Pedro Miguel Pinto,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+753,Python para Iniciantes,Laura Melo,"Excelente curso, aprendi muito!",Positivo,1,1
+755,Excel Avançado,Benício Duarte,"Muito bom, super recomendo!",Positivo,1,1
+756,Excel Avançado,Ana Luiza Mendes,"Muito bom, super recomendo!",Positivo,1,1
+757,Machine Learning com Python,Ana Mendes,Não gostei do curso.,Negativo,0,0
+758,Excel Avançado,Otávio Melo,"Excelente curso, aprendi muito!",Positivo,1,1
+759,Python para Iniciantes,Yago Caldeira,"Muito bom, super recomendo!",Positivo,1,1
+761,Introdução ao Power BI,Maria Cecília Barros,Muita enrolação e pouca prática.,Negativo,0,0
+762,Data Science com R,Murilo Campos,Curso claro e objetivo.,Positivo,1,1
+763,Visualização de Dados com Tableau,Alexandre Rodrigues,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+764,Visualização de Dados com Tableau,Ana Vitória Nogueira,"Muito bom, super recomendo!",Positivo,1,1
+765,Visualização de Dados com Tableau,Elisa Azevedo,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+766,Visualização de Dados com Tableau,Sofia Rocha,"Muito bom, super recomendo!",Positivo,1,1
+767,Machine Learning com Python,Lucas Gabriel Castro,"Excelente curso, aprendi muito!",Positivo,1,1
+769,Machine Learning com Python,Carlos Eduardo Cardoso,"Excelente curso, aprendi muito!",Positivo,1,1
+770,Data Science com R,Isadora Cardoso,Muita enrolação e pouca prática.,Negativo,0,0
+771,Excel Avançado,Erick Lima,Muita enrolação e pouca prática.,Negativo,0,0
+772,Inteligência Artificial,Ana Clara Dias,Aprendi mais do que esperava!,Positivo,1,1
+773,Introdução ao Power BI,Larissa Farias,"Excelente curso, aprendi muito!",Positivo,1,1
+774,Inteligência Artificial,Ryan Melo,Não gostei do curso.,Negativo,0,0
+776,Inteligência Artificial,Isabella Ramos,Não gostei do curso.,Negativo,0,0
+777,Machine Learning com Python,Fernando Sales,Curso claro e objetivo.,Positivo,1,1
+779,Excel Avançado,Luiz Henrique Moreira,Explicações confusas e conteúdo fraco.,Negativo,0,0
+780,Machine Learning com Python,Ana Campos,Muita enrolação e pouca prática.,Negativo,0,0
+781,Python para Iniciantes,Pietra Pinto,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+782,Introdução ao Power BI,Pietro Cardoso,Não gostei do curso.,Negativo,0,0
+785,Excel Avançado,Calebe da Conceição,"Excelente curso, aprendi muito!",Positivo,1,1
+786,Inteligência Artificial,Manuela Nunes,Explicações confusas e conteúdo fraco.,Negativo,0,0
+787,Excel Avançado,Isadora Fogaça,"Muito bom, super recomendo!",Positivo,1,1
+788,Data Science com R,Lucas Martins,Não gostei do curso.,Negativo,0,0
+789,Inteligência Artificial,Enzo Jesus,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+791,Machine Learning com Python,Bryan Araújo,Aprendi mais do que esperava!,Positivo,1,1
+792,Introdução ao Power BI,Caio Teixeira,"Excelente curso, aprendi muito!",Positivo,1,1
+794,SQL para Análise de Dados,Sophie Freitas,Curso claro e objetivo.,Positivo,1,1
+795,Python para Iniciantes,Pedro Miguel Novaes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+797,Introdução ao Power BI,João Lucas Viana,"Excelente curso, aprendi muito!",Positivo,1,1
+799,Python para Iniciantes,Lorena Azevedo,Não recomendo.,Negativo,0,0
+800,SQL para Análise de Dados,Fernanda Ribeiro,Curso claro e objetivo.,Positivo,1,1
+801,Python para Iniciantes,Vitor Gomes,Não recomendo.,Negativo,0,0
+802,Visualização de Dados com Tableau,Rafaela Barbosa,Muita enrolação e pouca prática.,Negativo,0,0
+804,SQL para Análise de Dados,Elisa Pinto,Curso claro e objetivo.,Positivo,1,1
+805,Visualização de Dados com Tableau,Stephany Rodrigues,Aprendi mais do que esperava!,Positivo,1,1
+806,Excel Avançado,Maria Fernanda Lopes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+807,Excel Avançado,Paulo da Mota,"Excelente curso, aprendi muito!",Positivo,1,1
+809,SQL para Análise de Dados,Marcos Vinicius Farias,"Excelente curso, aprendi muito!",Positivo,1,1
+810,Inteligência Artificial,Enrico Nascimento,"Muito bom, super recomendo!",Positivo,1,1
+811,Machine Learning com Python,Esther Pinto,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+813,SQL para Análise de Dados,Emanuel Castro,"Excelente curso, aprendi muito!",Positivo,1,1
+814,Introdução ao Power BI,Diogo Moraes,"Muito bom, super recomendo!",Positivo,1,1
+815,SQL para Análise de Dados,Júlia da Costa,Não recomendo.,Negativo,0,0
+817,Python para Iniciantes,Emanuelly Farias,Não recomendo.,Negativo,0,0
+819,Python para Iniciantes,Carlos Eduardo Rezende,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+820,SQL para Análise de Dados,Luiz Felipe Moraes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+821,SQL para Análise de Dados,Bernardo Dias,Aprendi mais do que esperava!,Positivo,1,1
+823,Visualização de Dados com Tableau,Davi Lucca da Conceição,"Excelente curso, aprendi muito!",Positivo,1,1
+826,Machine Learning com Python,Vitória Sales,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+829,Machine Learning com Python,Ana Laura Teixeira,Aprendi mais do que esperava!,Positivo,1,1
+830,Visualização de Dados com Tableau,Bruno Costa,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+833,Introdução ao Power BI,Davi Luiz Porto,Aprendi mais do que esperava!,Positivo,1,1
+834,Inteligência Artificial,Thomas Gonçalves,"Muito bom, super recomendo!",Positivo,1,1
+835,Data Science com R,Vitor Carvalho,"Muito bom, super recomendo!",Positivo,1,1
+836,Python para Iniciantes,Isabella Ramos,"Muito bom, super recomendo!",Positivo,1,1
+837,Python para Iniciantes,Luiz Felipe Rocha,"Muito bom, super recomendo!",Positivo,1,1
+839,Data Science com R,Nathan Barros,Não recomendo.,Negativo,0,0
+841,Machine Learning com Python,Lívia Fernandes,"Muito bom, super recomendo!",Positivo,1,1
+844,Excel Avançado,Laís Oliveira,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+846,Data Science com R,Vitor Gabriel Martins,Curso claro e objetivo.,Positivo,1,1
+848,SQL para Análise de Dados,Vinicius da Mota,Não recomendo.,Negativo,0,0
+849,Visualização de Dados com Tableau,Ana Vitória da Luz,"Muito bom, super recomendo!",Positivo,1,1
+851,Python para Iniciantes,Sophia Ramos,"Muito bom, super recomendo!",Positivo,1,1
+852,Visualização de Dados com Tableau,Breno da Luz,Não recomendo.,Negativo,0,0
+855,Data Science com R,Lívia Teixeira,Aprendi mais do que esperava!,Positivo,1,1
+856,Python para Iniciantes,Marcos Vinicius da Paz,"Muito bom, super recomendo!",Positivo,1,1
+857,Data Science com R,Gustavo Henrique Pinto,"Excelente curso, aprendi muito!",Positivo,1,1
+858,Inteligência Artificial,Mariana Silva,"Muito bom, super recomendo!",Positivo,1,1
+859,Introdução ao Power BI,Ana Correia,Explicações confusas e conteúdo fraco.,Negativo,0,0
+860,Inteligência Artificial,Heitor Ferreira,"Excelente curso, aprendi muito!",Positivo,1,1
+861,Visualização de Dados com Tableau,Ian Araújo,Aprendi mais do que esperava!,Positivo,1,1
+862,SQL para Análise de Dados,Nicolas Barros,Não recomendo.,Negativo,0,0
+864,Machine Learning com Python,Luiz Henrique Campos,"Excelente curso, aprendi muito!",Positivo,1,1
+867,Excel Avançado,Yago Oliveira,Curso claro e objetivo.,Positivo,1,1
+868,Visualização de Dados com Tableau,Rebeca Cardoso,"Muito bom, super recomendo!",Positivo,1,1
+869,Machine Learning com Python,Amanda Cavalcanti,Não gostei do curso.,Negativo,0,0
+870,Visualização de Dados com Tableau,Gabriel Duarte,Curso claro e objetivo.,Positivo,1,1
+872,Introdução ao Power BI,Sofia Cardoso,Aprendi mais do que esperava!,Positivo,1,1
+873,Python para Iniciantes,Vitória Porto,"Muito bom, super recomendo!",Positivo,1,1
+874,SQL para Análise de Dados,Agatha Nunes,Não recomendo.,Negativo,0,0
+875,Visualização de Dados com Tableau,Guilherme da Cruz,"Muito bom, super recomendo!",Positivo,1,1
+878,Python para Iniciantes,Beatriz Viana,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+879,SQL para Análise de Dados,Levi Farias,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+880,Introdução ao Power BI,Diego Ferreira,Não recomendo.,Negativo,0,0
+881,Inteligência Artificial,Pedro Miguel Teixeira,"Muito bom, super recomendo!",Positivo,1,1
+883,Introdução ao Power BI,Samuel Silveira,Aprendi mais do que esperava!,Positivo,1,1
+884,Excel Avançado,Caroline da Paz,Aprendi mais do que esperava!,Positivo,1,1
+887,Machine Learning com Python,Sophie Freitas,Não recomendo.,Negativo,0,0
+889,Data Science com R,Otávio Santos,Explicações confusas e conteúdo fraco.,Negativo,0,0
+891,Data Science com R,Ana Julia Nascimento,"Excelente curso, aprendi muito!",Positivo,1,1
+894,Data Science com R,Ana Lívia Farias,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+895,Python para Iniciantes,Alana Gomes,Não gostei do curso.,Negativo,0,0
+896,Machine Learning com Python,Carlos Eduardo Pereira,Aprendi mais do que esperava!,Positivo,1,1
+898,Python para Iniciantes,João Lucas Rezende,"Excelente curso, aprendi muito!",Positivo,1,1
+900,Python para Iniciantes,Lucca Souza,Explicações confusas e conteúdo fraco.,Negativo,0,0
+901,Visualização de Dados com Tableau,Laís Cavalcanti,"Excelente curso, aprendi muito!",Positivo,1,1
+902,Visualização de Dados com Tableau,Carolina da Rosa,Aprendi mais do que esperava!,Positivo,1,1
+903,Machine Learning com Python,Luigi da Conceição,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+904,Data Science com R,Emanuel Dias,"Excelente curso, aprendi muito!",Positivo,1,1
+905,SQL para Análise de Dados,Brenda Moura,"Excelente curso, aprendi muito!",Positivo,1,1
+907,Visualização de Dados com Tableau,Enzo Gabriel Rocha,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+908,Inteligência Artificial,Bryan Ramos,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+911,Inteligência Artificial,Enrico Ramos,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+912,Introdução ao Power BI,Theo Farias,Aprendi mais do que esperava!,Positivo,1,1
+913,Introdução ao Power BI,Henrique Mendes,Aprendi mais do que esperava!,Positivo,1,1
+916,SQL para Análise de Dados,Alana Pires,"Muito bom, super recomendo!",Positivo,1,1
+918,Machine Learning com Python,Rafael Gonçalves,Explicações confusas e conteúdo fraco.,Negativo,0,0
+919,Data Science com R,Thiago Pires,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+922,SQL para Análise de Dados,Sophie Alves,Curso claro e objetivo.,Positivo,1,1
+923,Excel Avançado,Heitor Barbosa,"Excelente curso, aprendi muito!",Positivo,1,1
+925,Excel Avançado,Guilherme da Mata,"Muito bom, super recomendo!",Positivo,1,1
+926,Machine Learning com Python,Milena Ramos,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+927,Visualização de Dados com Tableau,Emanuella Almeida,Curso claro e objetivo.,Positivo,1,1
+929,Inteligência Artificial,Breno Fernandes,Não recomendo.,Negativo,0,0
+930,SQL para Análise de Dados,Esther Moreira,Curso claro e objetivo.,Positivo,1,1
+932,Excel Avançado,Isaac das Neves,Não recomendo.,Negativo,0,0
+934,Introdução ao Power BI,Ana Carolina Pinto,"Muito bom, super recomendo!",Positivo,1,1
+936,Machine Learning com Python,Mariana Castro,"Muito bom, super recomendo!",Positivo,1,1
+937,Python para Iniciantes,Valentina Campos,"Muito bom, super recomendo!",Positivo,1,1
+938,Visualização de Dados com Tableau,Pedro Lucas Monteiro,Aprendi mais do que esperava!,Positivo,1,1
+939,Excel Avançado,Pedro Henrique Costa,Curso claro e objetivo.,Positivo,1,1
+940,Python para Iniciantes,Guilherme Silva,Não recomendo.,Negativo,0,0
+941,SQL para Análise de Dados,Pedro Cavalcanti,"Excelente curso, aprendi muito!",Positivo,1,1
+942,Python para Iniciantes,Valentina Rodrigues,Não gostei do curso.,Negativo,0,0
+943,Introdução ao Power BI,Maria Fernanda da Cunha,"Muito bom, super recomendo!",Positivo,1,1
+944,Machine Learning com Python,Marcos Vinicius Cardoso,"Muito bom, super recomendo!",Positivo,1,1
+945,Visualização de Dados com Tableau,Bárbara Cunha,"Excelente curso, aprendi muito!",Positivo,1,1
+946,Machine Learning com Python,Isadora da Conceição,Não recomendo.,Negativo,0,0
+949,Introdução ao Power BI,Lívia da Paz,Curso claro e objetivo.,Positivo,1,1
+950,Machine Learning com Python,Brenda Pinto,Curso claro e objetivo.,Positivo,1,1
+951,Python para Iniciantes,Emanuel Monteiro,"Muito bom, super recomendo!",Positivo,1,1
+952,Introdução ao Power BI,João Guilherme Teixeira,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+953,SQL para Análise de Dados,Pietra da Mota,"Muito bom, super recomendo!",Positivo,1,1
+954,Excel Avançado,Calebe da Rocha,Não gostei do curso.,Negativo,0,0
+955,SQL para Análise de Dados,André Azevedo,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+957,Inteligência Artificial,Ana Luiza Lopes,"Excelente curso, aprendi muito!",Positivo,1,1
+958,Visualização de Dados com Tableau,Milena Mendes,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+959,Visualização de Dados com Tableau,Bianca Cardoso,"Excelente curso, aprendi muito!",Positivo,1,1
+962,Machine Learning com Python,Rafaela Costa,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+963,Machine Learning com Python,Clara Novaes,Curso claro e objetivo.,Positivo,1,1
+965,Python para Iniciantes,Isabel Silveira,Curso claro e objetivo.,Positivo,1,1
+966,Excel Avançado,Marcos Vinicius da Rosa,Não gostei do curso.,Negativo,0,0
+967,Visualização de Dados com Tableau,Lorenzo Ferreira,Aprendi mais do que esperava!,Positivo,1,1
+970,Introdução ao Power BI,Samuel Cunha,Muita enrolação e pouca prática.,Negativo,0,0
+971,Excel Avançado,Bruno Fernandes,"Muito bom, super recomendo!",Positivo,1,1
+973,Data Science com R,Danilo Campos,"Muito bom, super recomendo!",Positivo,1,1
+974,Inteligência Artificial,Matheus Novaes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+975,Python para Iniciantes,Laís Melo,"Excelente curso, aprendi muito!",Positivo,1,1
+977,Inteligência Artificial,Lorenzo Moura,"Muito bom, super recomendo!",Positivo,1,1
+978,Machine Learning com Python,João Gabriel Mendes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+979,Machine Learning com Python,Fernanda Ferreira,"Muito bom, super recomendo!",Positivo,1,1
+980,Machine Learning com Python,Cauê Peixoto,Não recomendo.,Negativo,0,0
+982,Excel Avançado,João Pedro Cunha,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+983,Machine Learning com Python,João Guilherme Moraes,"Muito bom, super recomendo!",Positivo,1,1
+984,SQL para Análise de Dados,João Miguel Viana,"Muito bom, super recomendo!",Positivo,1,1
+985,Inteligência Artificial,Carlos Eduardo Sales,Não gostei do curso.,Negativo,0,0
+986,SQL para Análise de Dados,Enzo Santos,Não recomendo.,Negativo,0,0
+987,Excel Avançado,Rebeca Santos,Curso claro e objetivo.,Positivo,1,1
+989,Excel Avançado,João Miguel Aragão,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+990,Visualização de Dados com Tableau,Amanda Santos,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+991,Visualização de Dados com Tableau,João Cunha,"Excelente curso, aprendi muito!",Positivo,1,1
+992,Inteligência Artificial,Enzo Gabriel Cardoso,Explicações confusas e conteúdo fraco.,Negativo,0,0
+993,Visualização de Dados com Tableau,Davi Barros,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+994,Machine Learning com Python,Davi Cavalcanti,Aprendi mais do que esperava!,Positivo,1,1
+995,Introdução ao Power BI,Isabelly Farias,Aprendi mais do que esperava!,Positivo,1,1
+997,Visualização de Dados com Tableau,Isabelly da Luz,Aprendi mais do que esperava!,Positivo,1,1
+1000,Machine Learning com Python,Natália da Cruz,Aprendi mais do que esperava!,Positivo,1,1
+1002,Machine Learning com Python,Valentina Barbosa,Curso claro e objetivo.,Positivo,1,1
+1003,Excel Avançado,Davi Lima,Explicações confusas e conteúdo fraco.,Negativo,0,0
+1006,Introdução ao Power BI,Rebeca Campos,Curso claro e objetivo.,Positivo,1,1
+1007,Visualização de Dados com Tableau,Vitória Santos,"Excelente curso, aprendi muito!",Positivo,1,1
+1008,Machine Learning com Python,Erick Ribeiro,"Excelente curso, aprendi muito!",Positivo,1,1
+1009,Machine Learning com Python,Natália Nunes,"Muito bom, super recomendo!",Positivo,1,1
+1010,SQL para Análise de Dados,Levi Freitas,"Excelente curso, aprendi muito!",Positivo,1,1
+1011,Introdução ao Power BI,Kamilly Duarte,Não gostei do curso.,Negativo,0,0
+1012,Inteligência Artificial,Emanuel Lopes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1014,Visualização de Dados com Tableau,Isis Aragão,"Muito bom, super recomendo!",Positivo,1,1
+1015,Introdução ao Power BI,Olivia Gonçalves,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+1017,Python para Iniciantes,João Lucas Almeida,"Muito bom, super recomendo!",Positivo,1,1
+1018,Visualização de Dados com Tableau,Rodrigo Caldeira,Não recomendo.,Negativo,0,0
+1019,Introdução ao Power BI,Alexandre Farias,"Excelente curso, aprendi muito!",Positivo,1,1
+1020,Introdução ao Power BI,Kaique Martins,"Muito bom, super recomendo!",Positivo,1,1
+1021,Visualização de Dados com Tableau,Davi Almeida,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1024,Introdução ao Power BI,Marcos Vinicius Aragão,"Muito bom, super recomendo!",Positivo,1,1
+1025,Introdução ao Power BI,Ryan Ribeiro,Aprendi mais do que esperava!,Positivo,1,1
+1026,Introdução ao Power BI,Ana Vitória Pereira,Aprendi mais do que esperava!,Positivo,1,1
+1027,Visualização de Dados com Tableau,Emanuel Carvalho,Aprendi mais do que esperava!,Positivo,1,1
+1028,Visualização de Dados com Tableau,João Vitor Pereira,Muita enrolação e pouca prática.,Negativo,0,0
+1030,Visualização de Dados com Tableau,João Gabriel Peixoto,"Muito bom, super recomendo!",Positivo,1,1
+1031,Python para Iniciantes,Calebe Gomes,Não recomendo.,Negativo,0,0
+1032,Excel Avançado,Henrique Lopes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1034,Data Science com R,Bruno Rocha,"Muito bom, super recomendo!",Positivo,1,1
+1035,Machine Learning com Python,Luiz Felipe Moraes,Aprendi mais do que esperava!,Positivo,1,1
+1036,Inteligência Artificial,Lucca Moura,Não gostei do curso.,Negativo,0,0
+1038,Data Science com R,Augusto Mendes,Não recomendo.,Negativo,0,0
+1039,SQL para Análise de Dados,Maria Sophia Carvalho,Não recomendo.,Negativo,0,0
+1040,Machine Learning com Python,Clarice Sales,Muita enrolação e pouca prática.,Negativo,0,0
+1041,Inteligência Artificial,Ana Lívia Cardoso,"Excelente curso, aprendi muito!",Positivo,1,1
+1043,SQL para Análise de Dados,Amanda Nascimento,Aprendi mais do que esperava!,Positivo,1,1
+1044,Introdução ao Power BI,Ian das Neves,"Muito bom, super recomendo!",Positivo,1,1
+1045,Data Science com R,Diogo Araújo,Curso claro e objetivo.,Positivo,1,1
+1048,Introdução ao Power BI,Luiz Miguel das Neves,Curso claro e objetivo.,Positivo,1,1
+1050,SQL para Análise de Dados,Emanuelly Martins,Explicações confusas e conteúdo fraco.,Negativo,0,0
+1053,Inteligência Artificial,Luiza Aragão,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1054,Visualização de Dados com Tableau,Luiz Fernando Dias,Explicações confusas e conteúdo fraco.,Negativo,0,0
+1055,Data Science com R,Erick Ramos,Aprendi mais do que esperava!,Positivo,1,1
+1057,Introdução ao Power BI,Luigi Santos,Não gostei do curso.,Negativo,0,0
+1058,Introdução ao Power BI,Emilly Viana,Muita enrolação e pouca prática.,Negativo,0,0
+1059,Python para Iniciantes,Lucas Gabriel Barbosa,Muita enrolação e pouca prática.,Negativo,0,0
+1060,Visualização de Dados com Tableau,Augusto Correia,Não gostei do curso.,Negativo,0,0
+1061,Excel Avançado,Lorena Cardoso,Curso claro e objetivo.,Positivo,1,1
+1063,Inteligência Artificial,Davi Lucas Duarte,Aprendi mais do que esperava!,Positivo,1,1
+1065,SQL para Análise de Dados,Emanuel das Neves,Aprendi mais do que esperava!,Positivo,1,1
+1067,SQL para Análise de Dados,Sofia da Mota,"Muito bom, super recomendo!",Positivo,1,1
+1068,Introdução ao Power BI,João Porto,Não recomendo.,Negativo,0,0
+1069,Data Science com R,Valentina Gomes,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+1071,Data Science com R,Luiz Miguel da Cunha,Muita enrolação e pouca prática.,Negativo,0,0
+1072,Inteligência Artificial,Lorenzo Rezende,"Excelente curso, aprendi muito!",Positivo,1,1
+1073,Python para Iniciantes,Gustavo Cardoso,"Excelente curso, aprendi muito!",Positivo,1,1
+1075,Introdução ao Power BI,Olivia Mendes,Aprendi mais do que esperava!,Positivo,1,1
+1076,Excel Avançado,Ana Cavalcanti,Explicações confusas e conteúdo fraco.,Negativo,0,0
+1077,Data Science com R,Cauê Cardoso,Aprendi mais do que esperava!,Positivo,1,1
+1078,Introdução ao Power BI,Pietro Santos,Aprendi mais do que esperava!,Positivo,1,1
+1080,Python para Iniciantes,Thomas Carvalho,"Excelente curso, aprendi muito!",Positivo,1,1
+1081,Data Science com R,Isabel Moura,Curso claro e objetivo.,Positivo,1,1
+1082,SQL para Análise de Dados,Bryan das Neves,Aprendi mais do que esperava!,Positivo,1,1
+1083,Python para Iniciantes,João Pedro Mendes,Explicações confusas e conteúdo fraco.,Negativo,0,0
+1084,SQL para Análise de Dados,Antônio Pereira,Curso claro e objetivo.,Positivo,1,1
+1085,Machine Learning com Python,Julia Cavalcanti,Curso claro e objetivo.,Positivo,1,1
+1086,Excel Avançado,Nathan Santos,"Excelente curso, aprendi muito!",Positivo,1,1
+1088,Excel Avançado,Rafaela Fogaça,Muita enrolação e pouca prática.,Negativo,0,0
+1093,Introdução ao Power BI,Luiz Fernando Moreira,Muita enrolação e pouca prática.,Negativo,0,0
+1094,Introdução ao Power BI,Alícia Silva,Não gostei do curso.,Negativo,0,0
+1096,Visualização de Dados com Tableau,Rodrigo Oliveira,Explicações confusas e conteúdo fraco.,Negativo,0,0
+1097,Excel Avançado,Davi da Mata,"Muito bom, super recomendo!",Positivo,1,1
+1098,Data Science com R,Letícia Gomes,Curso claro e objetivo.,Positivo,1,1
+1099,SQL para Análise de Dados,Ana Sophia da Cunha,"Muito bom, super recomendo!",Positivo,1,1
+1100,Visualização de Dados com Tableau,Francisco da Mota,"Muito bom, super recomendo!",Positivo,1,1
+1103,Python para Iniciantes,Eduarda Duarte,Aprendi mais do que esperava!,Positivo,1,1
+1105,Excel Avançado,Rodrigo Porto,"Muito bom, super recomendo!",Positivo,1,1
+1106,Python para Iniciantes,Alícia Barros,"Excelente curso, aprendi muito!",Positivo,1,1
+1108,Inteligência Artificial,Diogo Cavalcanti,Muita enrolação e pouca prática.,Negativo,0,0
+1110,Visualização de Dados com Tableau,Ana Lívia da Rocha,Curso claro e objetivo.,Positivo,1,1
+1111,Introdução ao Power BI,Lorenzo Castro,Não recomendo.,Negativo,0,0
+1112,Python para Iniciantes,Nathan Vieira,"Excelente curso, aprendi muito!",Positivo,1,1
+1114,Excel Avançado,Natália da Conceição,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1115,Machine Learning com Python,Gustavo Henrique Cavalcanti,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1117,Visualização de Dados com Tableau,Agatha Farias,Explicações confusas e conteúdo fraco.,Negativo,0,0
+1118,Data Science com R,Bianca Jesus,Aprendi mais do que esperava!,Positivo,1,1
+1119,Inteligência Artificial,Júlia da Costa,Aprendi mais do que esperava!,Positivo,1,1
+1121,Excel Avançado,Caio Aragão,Muita enrolação e pouca prática.,Negativo,0,0
+1122,Machine Learning com Python,Nathan Almeida,"Muito bom, super recomendo!",Positivo,1,1
+1124,SQL para Análise de Dados,Lívia Nogueira,"Muito bom, super recomendo!",Positivo,1,1
+1125,Excel Avançado,Ana Clara Silva,"Muito bom, super recomendo!",Positivo,1,1
+1127,Visualização de Dados com Tableau,Julia Porto,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1129,Python para Iniciantes,Caroline Ramos,"Muito bom, super recomendo!",Positivo,1,1
+1130,Inteligência Artificial,Olivia Nascimento,Aprendi mais do que esperava!,Positivo,1,1
+1133,Python para Iniciantes,Bianca Cardoso,Aprendi mais do que esperava!,Positivo,1,1
+1135,Inteligência Artificial,Maria Fernanda Dias,"Muito bom, super recomendo!",Positivo,1,1
+1136,Excel Avançado,Eduardo da Cunha,Não gostei do curso.,Negativo,0,0
+1137,SQL para Análise de Dados,Camila Moraes,Não recomendo.,Negativo,0,0
+1138,Introdução ao Power BI,Nina Castro,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+1142,Python para Iniciantes,Luiza Araújo,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1146,SQL para Análise de Dados,Marcela Moraes,Curso claro e objetivo.,Positivo,1,1
+1147,Python para Iniciantes,Pedro Henrique Souza,Explicações confusas e conteúdo fraco.,Negativo,0,0
+1148,Inteligência Artificial,Noah Rocha,"Muito bom, super recomendo!",Positivo,1,1
+1150,Python para Iniciantes,Kevin Ramos,Curso claro e objetivo.,Positivo,1,1
+1151,Visualização de Dados com Tableau,Ana Beatriz Novaes,Não gostei do curso.,Negativo,0,0
+1154,Python para Iniciantes,Emanuelly da Cruz,Não recomendo.,Negativo,0,0
+1157,Python para Iniciantes,Cauê Cavalcanti,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1160,Python para Iniciantes,Igor Silva,"Muito bom, super recomendo!",Positivo,1,1
+1161,Machine Learning com Python,Davi Aragão,Muita enrolação e pouca prática.,Negativo,0,0
+1162,Machine Learning com Python,Lívia Oliveira,Não gostei do curso.,Negativo,0,0
+1164,Python para Iniciantes,Davi Lucas Costela,Muita enrolação e pouca prática.,Negativo,0,0
+1165,Excel Avançado,Gabriela Cardoso,"Muito bom, super recomendo!",Positivo,1,1
+1166,Introdução ao Power BI,Vitor Hugo Almeida,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1167,Python para Iniciantes,Rafael Barbosa,"Excelente curso, aprendi muito!",Positivo,1,1
+1168,Inteligência Artificial,Ana Julia Silveira,Não gostei do curso.,Negativo,0,0
+1169,Visualização de Dados com Tableau,Gabriela da Mata,Curso claro e objetivo.,Positivo,1,1
+1172,Python para Iniciantes,Joaquim Fernandes,Explicações confusas e conteúdo fraco.,Negativo,0,0
+1173,SQL para Análise de Dados,Luigi Costa,Não recomendo.,Negativo,0,0
+1176,Inteligência Artificial,Laura da Mata,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1177,Visualização de Dados com Tableau,Pedro Henrique das Neves,Curso claro e objetivo.,Positivo,1,1
+1178,Inteligência Artificial,Ana Carolina Costa,"Excelente curso, aprendi muito!",Positivo,1,1
+1179,Machine Learning com Python,Manuela Nogueira,Não gostei do curso.,Negativo,0,0
+1181,Python para Iniciantes,Rafaela da Paz,"Muito bom, super recomendo!",Positivo,1,1
+1182,Introdução ao Power BI,Yasmin Costa,"Excelente curso, aprendi muito!",Positivo,1,1
+1186,Data Science com R,Catarina Jesus,Aprendi mais do que esperava!,Positivo,1,1
+1188,Visualização de Dados com Tableau,Olivia Farias,Não recomendo.,Negativo,0,0
+1189,Introdução ao Power BI,Ana Beatriz Oliveira,Aprendi mais do que esperava!,Positivo,1,1
+1190,Inteligência Artificial,Bruno Nunes,"Excelente curso, aprendi muito!",Positivo,1,1
+1193,Data Science com R,André Rocha,"Muito bom, super recomendo!",Positivo,1,1
+1195,Python para Iniciantes,Ana Sophia Pires,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+1196,Python para Iniciantes,Yago Almeida,Não gostei do curso.,Negativo,0,0
+1197,Excel Avançado,Gustavo Henrique Nogueira,"Excelente curso, aprendi muito!",Positivo,1,1
+1199,Machine Learning com Python,João Felipe Souza,"Muito bom, super recomendo!",Positivo,1,1
+1200,Python para Iniciantes,Eduarda Peixoto,Curso claro e objetivo.,Positivo,1,1
+1202,Visualização de Dados com Tableau,Isadora Campos,Muita enrolação e pouca prática.,Negativo,0,0
+1203,Data Science com R,André da Luz,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1204,Python para Iniciantes,Sophie Lopes,Explicações confusas e conteúdo fraco.,Negativo,0,0
+1205,Excel Avançado,Bruno Correia,Curso claro e objetivo.,Positivo,1,1
+1206,Visualização de Dados com Tableau,Thales Santos,"Muito bom, super recomendo!",Positivo,1,1
+1210,Inteligência Artificial,Maria Fernanda Ribeiro,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1211,Python para Iniciantes,Ana Lívia Ferreira,Aprendi mais do que esperava!,Positivo,1,1
+1212,Introdução ao Power BI,Beatriz Moura,Explicações confusas e conteúdo fraco.,Negativo,0,0
+1213,Machine Learning com Python,Marina Lima,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1214,Data Science com R,Maria Fernanda Freitas,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1217,Visualização de Dados com Tableau,Stella Novaes,Aprendi mais do que esperava!,Positivo,1,1
+1218,Data Science com R,João Felipe Barros,Não recomendo.,Negativo,0,0
+1220,Inteligência Artificial,Bernardo Gonçalves,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1221,Introdução ao Power BI,Levi Ferreira,"Excelente curso, aprendi muito!",Positivo,1,1
+1222,Machine Learning com Python,Amanda da Cunha,"Muito bom, super recomendo!",Positivo,1,1
+1223,SQL para Análise de Dados,Lucas Gabriel da Rosa,"Muito bom, super recomendo!",Positivo,1,1
+1224,Visualização de Dados com Tableau,Antônio Cardoso,Muita enrolação e pouca prática.,Negativo,0,0
+1225,Python para Iniciantes,Bianca Nascimento,Aprendi mais do que esperava!,Positivo,1,1
+1226,Visualização de Dados com Tableau,Cecília Sales,Não gostei do curso.,Negativo,0,0
+1227,Introdução ao Power BI,Gabriela Vieira,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1230,Introdução ao Power BI,Elisa Novaes,"Excelente curso, aprendi muito!",Positivo,1,1
+1231,Inteligência Artificial,Stella Sales,"Muito bom, super recomendo!",Positivo,1,1
+1233,SQL para Análise de Dados,Yasmin Lima,Curso claro e objetivo.,Positivo,1,1
+1234,SQL para Análise de Dados,Cauã Sales,"Muito bom, super recomendo!",Positivo,1,1
+1236,SQL para Análise de Dados,Davi Luiz Ribeiro,"Excelente curso, aprendi muito!",Positivo,1,1
+1237,Data Science com R,Maria Alves,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+1238,Introdução ao Power BI,Sofia da Cruz,Curso claro e objetivo.,Positivo,1,1
+1239,Excel Avançado,Luiza Cavalcanti,Não gostei do curso.,Negativo,0,0
+1240,Excel Avançado,Heitor Pinto,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1241,Excel Avançado,Samuel Cardoso,"Excelente curso, aprendi muito!",Positivo,1,1
+1243,Machine Learning com Python,Enrico Rezende,Aprendi mais do que esperava!,Positivo,1,1
+1245,Inteligência Artificial,Davi Luiz Silveira,Curso claro e objetivo.,Positivo,1,1
+1246,Machine Learning com Python,Catarina Jesus,Curso claro e objetivo.,Positivo,1,1
+1247,Visualização de Dados com Tableau,Lucas Duarte,"Excelente curso, aprendi muito!",Positivo,1,1
+1248,Inteligência Artificial,Maria Sophia da Luz,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1249,Visualização de Dados com Tableau,Lavínia Dias,"Muito bom, super recomendo!",Positivo,1,1
+1250,Introdução ao Power BI,Lorenzo das Neves,"Muito bom, super recomendo!",Positivo,1,1
+1251,Machine Learning com Python,Alice Barros,Não gostei do curso.,Negativo,0,0
+1252,Excel Avançado,Evelyn Carvalho,"Muito bom, super recomendo!",Positivo,1,1
+1255,Data Science com R,Anthony Novaes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1256,Excel Avançado,Ryan da Luz,Aprendi mais do que esperava!,Positivo,1,1
+1258,Inteligência Artificial,Bruna Novaes,"Excelente curso, aprendi muito!",Positivo,1,1
+1260,Inteligência Artificial,Luiz Otávio Mendes,Curso claro e objetivo.,Positivo,1,1
+1263,Inteligência Artificial,Bryan Freitas,"Muito bom, super recomendo!",Positivo,1,1
+1265,Machine Learning com Python,Eloah Lima,Curso claro e objetivo.,Positivo,1,1
+1266,Data Science com R,Vitor Oliveira,Aprendi mais do que esperava!,Positivo,1,1
+1267,Introdução ao Power BI,Rodrigo Melo,Não recomendo.,Negativo,0,0
+1268,Python para Iniciantes,Evelyn Silva,Curso claro e objetivo.,Positivo,1,1
+1269,Visualização de Dados com Tableau,Renan Moraes,Aprendi mais do que esperava!,Positivo,1,1
+1271,Visualização de Dados com Tableau,Murilo Moraes,Curso claro e objetivo.,Positivo,1,1
+1273,SQL para Análise de Dados,João Felipe Porto,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1275,Excel Avançado,Felipe Rodrigues,"Excelente curso, aprendi muito!",Positivo,1,1
+1276,Visualização de Dados com Tableau,Henrique Costa,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1277,SQL para Análise de Dados,João Lucas Lopes,"Muito bom, super recomendo!",Positivo,1,1
+1278,Excel Avançado,Davi Lucas Cardoso,Aprendi mais do que esperava!,Positivo,1,1
+1280,SQL para Análise de Dados,Lucas Gabriel Costela,Não recomendo.,Negativo,0,0
+1281,Data Science com R,Bruna Melo,Muita enrolação e pouca prática.,Negativo,0,0
+1282,Excel Avançado,Igor Alves,"Excelente curso, aprendi muito!",Positivo,1,1
+1284,SQL para Análise de Dados,Marcela Cardoso,"Excelente curso, aprendi muito!",Positivo,1,1
+1287,Excel Avançado,Alana Gomes,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1289,Excel Avançado,Yago Gomes,Curso claro e objetivo.,Positivo,1,1
+1290,Visualização de Dados com Tableau,João Lucas Pinto,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+1291,SQL para Análise de Dados,João Guilherme Ramos,Não recomendo.,Negativo,0,0
+1292,Excel Avançado,Giovanna Cunha,"Muito bom, super recomendo!",Positivo,1,1
+1293,Machine Learning com Python,Marina Campos,Curso claro e objetivo.,Positivo,1,1
+1294,Introdução ao Power BI,Rebeca Monteiro,"Excelente curso, aprendi muito!",Positivo,1,1
+1295,Visualização de Dados com Tableau,Maria Julia Carvalho,Curso claro e objetivo.,Positivo,1,1
+1297,Visualização de Dados com Tableau,Eloah Azevedo,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1298,Inteligência Artificial,Emanuel Mendes,Curso claro e objetivo.,Positivo,1,1
+1299,Visualização de Dados com Tableau,Mariane Costela,"Excelente curso, aprendi muito!",Positivo,1,1
+1300,SQL para Análise de Dados,Heitor Caldeira,Curso claro e objetivo.,Positivo,1,1
+1302,SQL para Análise de Dados,Maria Vieira,"Muito bom, super recomendo!",Positivo,1,1
+1303,Machine Learning com Python,Maria Vitória Souza,"Muito bom, super recomendo!",Positivo,1,1
+1304,Python para Iniciantes,Isadora da Mota,Aprendi mais do que esperava!,Positivo,1,1
+1306,Inteligência Artificial,Erick da Costa,"Muito bom, super recomendo!",Positivo,1,1
+1307,Python para Iniciantes,Diego Freitas,Curso claro e objetivo.,Positivo,1,1
+1309,Data Science com R,Marina Moraes,Aprendi mais do que esperava!,Positivo,1,1
+1310,Inteligência Artificial,Levi Viana,Muita enrolação e pouca prática.,Negativo,0,0
+1311,Introdução ao Power BI,Nathan Correia,Não gostei do curso.,Negativo,0,0
+1312,Machine Learning com Python,Carolina Caldeira,"Muito bom, super recomendo!",Positivo,1,1
+1313,SQL para Análise de Dados,Thomas Fogaça,"Muito bom, super recomendo!",Positivo,1,1
+1314,Visualização de Dados com Tableau,Emanuel Costela,Não recomendo.,Negativo,0,0
+1316,Introdução ao Power BI,Emanuelly Caldeira,"Muito bom, super recomendo!",Positivo,1,1
+1317,Introdução ao Power BI,Agatha Vieira,Não gostei do curso.,Negativo,0,0
+1318,Inteligência Artificial,Vitor Hugo Pereira,Não recomendo.,Negativo,0,0
+1321,Data Science com R,Cauê Rezende,"Muito bom, super recomendo!",Positivo,1,1
+1323,Inteligência Artificial,Pietra Martins,"Muito bom, super recomendo!",Positivo,1,1
+1324,Introdução ao Power BI,Gabrielly Pereira,"Excelente curso, aprendi muito!",Positivo,1,1
+1325,Inteligência Artificial,Thiago Lima,Aprendi mais do que esperava!,Positivo,1,1
+1326,SQL para Análise de Dados,Augusto Martins,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+1327,Introdução ao Power BI,Laura Mendes,Curso claro e objetivo.,Positivo,1,1
+1329,Introdução ao Power BI,João Guilherme da Luz,Aprendi mais do que esperava!,Positivo,1,1
+1330,SQL para Análise de Dados,Ana Carolina da Mota,"Excelente curso, aprendi muito!",Positivo,1,1
+1331,Excel Avançado,Eloah Moreira,Curso claro e objetivo.,Positivo,1,1
+1332,Data Science com R,Júlia Ramos,"Muito bom, super recomendo!",Positivo,1,1
+1335,Python para Iniciantes,Carolina Correia,Não recomendo.,Negativo,0,0
+1336,Inteligência Artificial,Mariana Rocha,Não gostei do curso.,Negativo,0,0
+1337,SQL para Análise de Dados,Gustavo da Luz,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1338,Machine Learning com Python,Lucas Cardoso,"Excelente curso, aprendi muito!",Positivo,1,1
+1339,Inteligência Artificial,André Almeida,Curso claro e objetivo.,Positivo,1,1
+1343,Excel Avançado,Guilherme Farias,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1346,Excel Avançado,Vinicius Cavalcanti,Muita enrolação e pouca prática.,Negativo,0,0
+1347,SQL para Análise de Dados,Leonardo Moreira,Explicações confusas e conteúdo fraco.,Negativo,0,0
+1349,Excel Avançado,Bryan Jesus,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+1353,Python para Iniciantes,Murilo Mendes,"Muito bom, super recomendo!",Positivo,1,1
+1354,Introdução ao Power BI,Maria Rocha,Não recomendo.,Negativo,0,0
+1356,Introdução ao Power BI,Renan Duarte,"Excelente curso, aprendi muito!",Positivo,1,1
+1357,Excel Avançado,Leonardo Aragão,Curso claro e objetivo.,Positivo,1,1
+1358,Visualização de Dados com Tableau,Heloísa Porto,Muita enrolação e pouca prática.,Negativo,0,0
+1359,Data Science com R,Lucas Gabriel Caldeira,Explicações confusas e conteúdo fraco.,Negativo,0,0
+1361,Machine Learning com Python,Yasmin Ribeiro,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+1368,SQL para Análise de Dados,Erick Azevedo,Aprendi mais do que esperava!,Positivo,1,1
+1369,Python para Iniciantes,Fernando Mendes,Não gostei do curso.,Negativo,0,0
+1370,Introdução ao Power BI,Pietra Fogaça,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+1371,SQL para Análise de Dados,Manuela Barros,Não recomendo.,Negativo,0,0
+1372,Python para Iniciantes,Lorenzo Jesus,Aprendi mais do que esperava!,Positivo,1,1
+1374,Inteligência Artificial,Pedro Nogueira,Aprendi mais do que esperava!,Positivo,1,1
+1375,Data Science com R,Elisa da Paz,"Muito bom, super recomendo!",Positivo,1,1
+1379,Introdução ao Power BI,Bryan Alves,Aprendi mais do que esperava!,Positivo,1,1
+1380,Python para Iniciantes,Pedro Lucas Melo,Curso claro e objetivo.,Positivo,1,1
+1381,Excel Avançado,Bruna da Cunha,Curso claro e objetivo.,Positivo,1,1
+1382,Introdução ao Power BI,Marcela Fernandes,Muita enrolação e pouca prática.,Negativo,0,0
+1383,Inteligência Artificial,Luiz Henrique da Cruz,Não gostei do curso.,Negativo,0,0
+1384,Visualização de Dados com Tableau,Maria Teixeira,Aprendi mais do que esperava!,Positivo,1,1
+1385,Python para Iniciantes,Pietra Lopes,Não gostei do curso.,Negativo,0,0
+1387,Visualização de Dados com Tableau,Daniela Pires,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1389,Machine Learning com Python,Marcelo Freitas,Curso claro e objetivo.,Positivo,1,1
+1390,Machine Learning com Python,Isis Silveira,Curso claro e objetivo.,Positivo,1,1
+1391,SQL para Análise de Dados,Luiz Gustavo Almeida,Muita enrolação e pouca prática.,Negativo,0,0
+1393,Excel Avançado,Davi Luiz Monteiro,"Muito bom, super recomendo!",Positivo,1,1
+1394,SQL para Análise de Dados,Amanda Sales,"Muito bom, super recomendo!",Positivo,1,1
+1395,Python para Iniciantes,Catarina Silveira,"Muito bom, super recomendo!",Positivo,1,1
+1396,Visualização de Dados com Tableau,Kaique Cavalcanti,Explicações confusas e conteúdo fraco.,Negativo,0,0
+1397,Excel Avançado,Pietra Silva,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1398,SQL para Análise de Dados,Sabrina Farias,"Muito bom, super recomendo!",Positivo,1,1
+1400,Introdução ao Power BI,Laura Costa,"Excelente curso, aprendi muito!",Positivo,1,1
+1401,Python para Iniciantes,Felipe Dias,Muita enrolação e pouca prática.,Negativo,0,0
+1403,Data Science com R,Yasmin da Cruz,Aprendi mais do que esperava!,Positivo,1,1
+1404,SQL para Análise de Dados,Alexia Aragão,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1405,Inteligência Artificial,Maria Cecília Barros,Curso claro e objetivo.,Positivo,1,1
+1406,SQL para Análise de Dados,Theo Castro,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1407,Machine Learning com Python,Pietro da Luz,Muita enrolação e pouca prática.,Negativo,0,0
+1409,Data Science com R,Rafael Cavalcanti,Explicações confusas e conteúdo fraco.,Negativo,0,0
+1411,Python para Iniciantes,Heloísa Freitas,Muita enrolação e pouca prática.,Negativo,0,0
+1413,Inteligência Artificial,Maria Luiza Nogueira,"Muito bom, super recomendo!",Positivo,1,1
+1414,Inteligência Artificial,Ana Laura Ramos,Não recomendo.,Negativo,0,0
+1416,Python para Iniciantes,Isabella Lima,Muita enrolação e pouca prática.,Negativo,0,0
+1417,Excel Avançado,Pedro Henrique da Paz,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1420,Python para Iniciantes,Sophia Pires,"Muito bom, super recomendo!",Positivo,1,1
+1421,Data Science com R,Ana Vitória Monteiro,Explicações confusas e conteúdo fraco.,Negativo,0,0
+1422,Introdução ao Power BI,Yuri Cunha,Curso claro e objetivo.,Positivo,1,1
+1423,Introdução ao Power BI,João Vitor Fernandes,Não recomendo.,Negativo,0,0
+1426,Python para Iniciantes,Luiza das Neves,Aprendi mais do que esperava!,Positivo,1,1
+1429,SQL para Análise de Dados,Natália Nunes,"Muito bom, super recomendo!",Positivo,1,1
+1431,SQL para Análise de Dados,Maria Luiza Nunes,Não recomendo.,Negativo,0,0
+1432,Python para Iniciantes,Gabriela Freitas,Curso claro e objetivo.,Positivo,1,1
+1433,Excel Avançado,Luigi Jesus,Aprendi mais do que esperava!,Positivo,1,1
+1434,Introdução ao Power BI,Rebeca Azevedo,Curso claro e objetivo.,Positivo,1,1
+1435,Inteligência Artificial,Leonardo Porto,"Muito bom, super recomendo!",Positivo,1,1
+1436,Python para Iniciantes,Melissa da Cruz,Aprendi mais do que esperava!,Positivo,1,1
+1437,Data Science com R,Ana Lívia Nogueira,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1438,Excel Avançado,Isabelly Barros,Não gostei do curso.,Negativo,0,0
+1439,Inteligência Artificial,Elisa da Cunha,"Excelente curso, aprendi muito!",Positivo,1,1
+1441,Visualização de Dados com Tableau,Marcela das Neves,Aprendi mais do que esperava!,Positivo,1,1
+1442,Introdução ao Power BI,Ana Pinto,"Excelente curso, aprendi muito!",Positivo,1,1
+1446,Excel Avançado,Eduardo Santos,Aprendi mais do que esperava!,Positivo,1,1
+1447,SQL para Análise de Dados,Leonardo Novaes,Muita enrolação e pouca prática.,Negativo,0,0
+1448,SQL para Análise de Dados,Alícia da Luz,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1449,Visualização de Dados com Tableau,Joaquim Correia,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1452,Data Science com R,Ana Vitória Teixeira,"Excelente curso, aprendi muito!",Positivo,1,1
+1454,Introdução ao Power BI,Theo Pinto,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1456,Python para Iniciantes,Luiz Miguel Castro,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1459,SQL para Análise de Dados,Diego Santos,Não recomendo.,Negativo,0,0
+1460,Inteligência Artificial,Enzo Gabriel Campos,"Muito bom, super recomendo!",Positivo,1,1
+1461,SQL para Análise de Dados,Isabelly da Rocha,"Muito bom, super recomendo!",Positivo,1,1
+1462,Visualização de Dados com Tableau,Ian Peixoto,"Muito bom, super recomendo!",Positivo,1,1
+1466,SQL para Análise de Dados,Maysa Sales,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+1467,Python para Iniciantes,Luana Rocha,"Excelente curso, aprendi muito!",Positivo,1,1
+1469,SQL para Análise de Dados,Theo da Luz,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1470,Excel Avançado,Alexia Ramos,Não recomendo.,Negativo,0,0
+1471,Machine Learning com Python,Luiza da Mota,"Muito bom, super recomendo!",Positivo,1,1
+1472,Excel Avançado,Benício Silva,Não gostei do curso.,Negativo,0,0
+1473,Visualização de Dados com Tableau,Eduardo Mendes,Não gostei do curso.,Negativo,0,0
+1475,Python para Iniciantes,Larissa Gomes,Curso claro e objetivo.,Positivo,1,1
+1476,Excel Avançado,Alexandre Sales,Não gostei do curso.,Negativo,0,0
+1477,Visualização de Dados com Tableau,João Felipe Rezende,"Muito bom, super recomendo!",Positivo,1,1
+1478,Excel Avançado,Kaique da Paz,Não gostei do curso.,Negativo,0,0
+1479,Python para Iniciantes,Gabriel Porto,"Excelente curso, aprendi muito!",Positivo,1,1
+1480,Introdução ao Power BI,Luiz Fernando Gomes,"Excelente curso, aprendi muito!",Positivo,1,1
+1481,Data Science com R,Isadora Melo,Curso claro e objetivo.,Positivo,1,1
+1482,SQL para Análise de Dados,Natália Almeida,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1484,Data Science com R,Isabel Campos,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1486,Visualização de Dados com Tableau,Carlos Eduardo da Mata,Curso claro e objetivo.,Positivo,1,1
+1487,Excel Avançado,Pedro Lucas Fernandes,Curso claro e objetivo.,Positivo,1,1
+1488,SQL para Análise de Dados,Emanuel Pereira,Curso claro e objetivo.,Positivo,1,1
+1490,SQL para Análise de Dados,João Vitor Lima,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1491,Introdução ao Power BI,Isis da Mata,Curso claro e objetivo.,Positivo,1,1
+1493,Inteligência Artificial,Ana Laura Jesus,Didática ótima e conteúdo bem explicado.,Positivo,1,1
+1494,Python para Iniciantes,Gustavo Henrique Costa,Não gostei do curso.,Negativo,0,0
+1495,Data Science com R,Joaquim Nogueira,Não gostei do curso.,Negativo,0,0
+1496,Excel Avançado,Henrique Costa,Explicações confusas e conteúdo fraco.,Negativo,0,0
+1497,SQL para Análise de Dados,Milena Caldeira,"Perda de tempo, conteúdo mal elaborado.",Negativo,0,0
+1498,Visualização de Dados com Tableau,Breno Ribeiro,Muita enrolação e pouca prática.,Negativo,0,0
+1500,Python para Iniciantes,Maria Julia da Rocha,Aprendi mais do que esperava!,Positivo,1,1
+1501,Python para Iniciantes,Maria Souza,"Didática excelente, muito claro!",Positivo,1,1
